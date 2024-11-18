@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login with existing account by invalid email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b878a293-7719-483e-ab96-813b5f9720c7</testCaseGuid>
+</TestCaseEntity>

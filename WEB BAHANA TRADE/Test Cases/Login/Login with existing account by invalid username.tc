@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login with existing account by invalid username</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b7883ea9-2517-44e6-9b07-37660d668a9a</testCaseGuid>
+</TestCaseEntity>

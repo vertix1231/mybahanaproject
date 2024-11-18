@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Next</name>
+   <tag></tag>
+   <elementGuidId>bcf2dc60-9ff9-4281-a58c-0592219400f1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy Policy.'])[1]/following::button[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ffdace0e-fc76-4c34-b6e5-d20243fbf9e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full bg-primary-bahana text-white py-2 rounded-lg disabled:opacity-50</value>
+      <webElementGuid>a9471da7-4cd2-464a-8f70-c456a8cfd95f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Next</value>
+      <webElementGuid>84487f27-8e36-49e8-b42c-d14e3197c564</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;__className_e66fe9 max-h-screen&quot;]/div[@class=&quot;dark:text-zinc-800 flex justify-center items-center&quot;]/div[@class=&quot;w-screen self-start min-h-screen flex flex-col&quot;]/div[@class=&quot;flex-auto grid grid-cols-1 md:grid-cols-2 gap-4 bg-[#F6F6F6] dark:bg-bahana-dark items-center&quot;]/div[@class=&quot;flex flex-col w-full h-full p-2 md:p-4 justify-center item-center&quot;]/div[@class=&quot;flex-auto h-full grid items-center justify-center&quot;]/div[@class=&quot;flex flex-col w-full max-w-lg gap-y-4&quot;]/div[@class=&quot;flex-auto flex flex-col gap-y-1.5 bg-white border rounded-lg p-8&quot;]/div[@class=&quot;text-xs mb-5&quot;]/button[@class=&quot;w-full bg-primary-bahana text-white py-2 rounded-lg disabled:opacity-50&quot;]</value>
+      <webElementGuid>00d4a4d1-c0f9-498b-a11f-10c7c4f1c180</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy Policy.'])[1]/following::button[1]</value>
+      <webElementGuid>416b4edc-1ce9-43a4-995b-c13e8d79751a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bahana DXtrade Terms &amp; Conditions'])[1]/following::button[1]</value>
+      <webElementGuid>4c8384a0-f03b-4032-9aaa-0e8be25425db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/preceding::button[1]</value>
+      <webElementGuid>d91ecccb-6266-4112-9643-9cb15e6e93c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Next']/parent::*</value>
+      <webElementGuid>dcc355fc-6c24-4eb0-96b5-eb102fb3a436</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/button</value>
+      <webElementGuid>faa3e439-fd84-42f0-ab48-411a534f4239</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Next' or . = 'Next')]</value>
+      <webElementGuid>4b14ec30-1d5a-4e76-b501-e15f62d347e6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

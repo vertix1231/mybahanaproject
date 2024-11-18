@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Register new user with empty email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c4db515a-a76f-4bb0-91ac-caa963e70316</testCaseGuid>
+</TestCaseEntity>
