@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_BANK CIMB NIAGA</name>
+   <tag></tag>
+   <elementGuidId>28a1bbdb-2dee-4d9f-8793-51bb0a12be59</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='headlessui-combobox-option-:r7:']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.py-1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3937a2c7-c55d-4351-a99f-e2ea861e36b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>py-1</value>
+      <webElementGuid>9211a3e9-df4a-4077-91ab-f7169bdfa29d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BANK CIMB NIAGA</value>
+      <webElementGuid>ea0ad2c8-e306-4ba2-9940-9ff8000fd3d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-combobox-option-:r7:&quot;)/div[@class=&quot;py-1&quot;]</value>
+      <webElementGuid>9309d99a-7aa6-4a3d-8c0b-67ebca9fe1a9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='headlessui-combobox-option-:r7:']/div</value>
+      <webElementGuid>992fd1f6-34bd-43e6-a838-7c0da0d472d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Personal Bank Account'])[1]/following::div[1]</value>
+      <webElementGuid>4772f693-dd08-4520-8dd6-90a111f62b3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='button search'])[1]/following::div[1]</value>
+      <webElementGuid>7b43d79f-fda6-4ace-9235-4832fc58dfbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BANK MANDIRI'])[1]/preceding::div[1]</value>
+      <webElementGuid>844578ad-0b75-47e4-b526-98dd93928cd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BANK RAKYAT INDONESIA'])[1]/preceding::div[2]</value>
+      <webElementGuid>04852d7f-3b2a-4baf-87c0-581905fc071c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='BANK CIMB NIAGA']/parent::*</value>
+      <webElementGuid>49dc5eb6-f05e-4cf0-a4ce-c5552a94091c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div</value>
+      <webElementGuid>aebddaa1-c281-4e64-8621-b6c6ffe2e2fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'BANK CIMB NIAGA' or . = 'BANK CIMB NIAGA')]</value>
+      <webElementGuid>35c46ddb-e5ae-44bd-9931-3ffb5153961f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
