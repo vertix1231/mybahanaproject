@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Bonds</name>
+   <tag></tag>
+   <elementGuidId>40f47520-b560-4b61-af4d-3f9064afb958</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Stock'])[1]/following::div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.menu-primary.rounded-md.px-3.py-1.flex.flex-row.items-center</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e897250f-677c-4f88-b75e-2d4456d54fc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-primary rounded-md px-3 py-1 flex flex-row items-center</value>
+      <webElementGuid>3e374fbf-ae5f-4b3f-9db0-beb41427ac0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-current</name>
+      <type>Main</type>
+      <value>page</value>
+      <webElementGuid>a2b99a04-3a45-4d81-9fee-286b63be9028</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bonds</value>
+      <webElementGuid>7fa75a04-d56c-40b5-892b-1236d9e1a79b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;light&quot;]/body[@class=&quot;__className_d65c78 max-h-screen&quot;]/div[@class=&quot;xl:h-screen xl:max-h-screen flex flex-col justify-between dark:bg-black bg-foreground xl:text-xs sm:text-xxs mobile:text-xxs w-screen overflow-y-hidden&quot;]/header[@class=&quot;z-20 sticky top-0  w-screen order-first flex bg-white dark:bg-bahana-dark shadow-header&quot;]/div[@class=&quot;flex flex-wrap xl:flex-nowrap mobile:justify-around border-b dark:border-b-bahana-dark w-full&quot;]/nav[@class=&quot;order-3 xl:order-2 flex flex-col mobile:justify-around border-e dark:border-e-slate-600 border-s dark:border-s-slate-600 w-full&quot;]/div[@class=&quot;mobile:hidden xl:flex items-center justify-center h-full&quot;]/div[@class=&quot;flex items-center justify-center&quot;]/div[@class=&quot;flex gap-1 text-sm&quot;]/div[@class=&quot;cursor-pointer&quot;]/div[@class=&quot;menu-primary rounded-md px-3 py-1 flex flex-row items-center&quot;]</value>
+      <webElementGuid>d98c3a18-4b0a-4fbc-98c5-341548176d2b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Stock'])[1]/following::div[2]</value>
+      <webElementGuid>b275fa32-694c-44fb-8b09-70b464c16794</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open main menu'])[1]/following::div[7]</value>
+      <webElementGuid>1e35edc4-1c0a-4c97-9ab0-a79cc1fa5c3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mutual Fund'])[1]/preceding::div[1]</value>
+      <webElementGuid>400bea42-bfad-4044-af28-4c79206bdd80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div</value>
+      <webElementGuid>c6a4e354-a8e4-42c4-8906-b173119a6e20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Bonds' or . = 'Bonds')]</value>
+      <webElementGuid>3f133a52-c16c-4d76-810e-7cdfcb8ae42c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

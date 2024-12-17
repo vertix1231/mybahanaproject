@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Transaction</name>
+   <tag></tag>
+   <elementGuidId>2c9e39c7-7c92-454e-845b-21a54d0dcb27</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Portfolio'])[1]/following::div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>07e4cb47-151e-44ee-9afa-b3892bb81f29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-secondary rounded-md px-3 py-1 flex flex-row items-center</value>
+      <webElementGuid>b7f314fc-b0cd-44f5-a272-72e047050c4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-current</name>
+      <type>Main</type>
+      <value>page</value>
+      <webElementGuid>279d3329-7235-48db-812c-50942495aeae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Transaction</value>
+      <webElementGuid>3c491602-c2fa-47e5-8a97-dbf251e80a1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;light&quot;]/body[@class=&quot;__className_d65c78 max-h-screen&quot;]/div[@class=&quot;xl:h-screen xl:max-h-screen flex flex-col justify-between dark:bg-black bg-foreground xl:text-xs sm:text-xxs mobile:text-xxs w-screen overflow-y-hidden&quot;]/header[@class=&quot;z-20 sticky top-0  w-screen order-first flex bg-white dark:bg-bahana-dark shadow-header&quot;]/div[@class=&quot;flex flex-wrap xl:flex-nowrap mobile:justify-around border-b dark:border-b-bahana-dark w-full&quot;]/nav[@class=&quot;order-3 xl:order-2 flex flex-col mobile:justify-around border-e dark:border-e-slate-600 border-s dark:border-s-slate-600 w-full&quot;]/div[@class=&quot;mobile:hidden xl:flex items-center justify-center h-full&quot;]/div[@class=&quot;flex items-center justify-center&quot;]/div[@class=&quot;flex gap-1 text-sm&quot;]/div[@class=&quot;cursor-pointer&quot;]/div[@class=&quot;menu-secondary rounded-md px-3 py-1 flex flex-row items-center&quot;]</value>
+      <webElementGuid>4347c15a-bd7a-47c8-bab0-9436f4f2ce4f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Portfolio'])[1]/following::div[2]</value>
+      <webElementGuid>1e888c32-5860-4570-842a-5b065df2053f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mutual Fund'])[1]/following::div[5]</value>
+      <webElementGuid>24f62df8-6390-49ed-81d8-830322d0636c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Analytics'])[1]/preceding::div[1]</value>
+      <webElementGuid>074f3d9e-2715-4349-9964-efdf34fcbc9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div</value>
+      <webElementGuid>87cb120b-31aa-45f0-9838-872179085f5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Transaction' or . = 'Transaction')]</value>
+      <webElementGuid>238c6900-46af-4ad5-a864-de63fc44d467</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

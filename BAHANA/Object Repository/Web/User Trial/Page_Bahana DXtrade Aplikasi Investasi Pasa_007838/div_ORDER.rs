@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_ORDER</name>
+   <tag></tag>
+   <elementGuidId>cc032883-c537-489b-92bb-738d2c541577</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='More'])[1]/following::div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>184ad4ea-cbe6-4b5c-b8bf-88160e9fa869</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex flex-col font-semibold text-center btn-primary-bahana shadow-md text-white rounded-2xl w-[70px] h-[70px] items-center justify-center cursor-pointer</value>
+      <webElementGuid>107d9fe4-7c71-4b7e-a41a-c183e7a8f7e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ORDER</value>
+      <webElementGuid>58f24e50-6847-4a45-8696-b9bfdff719c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;light&quot;]/body[@class=&quot;__className_d65c78 max-h-screen&quot;]/div[@class=&quot;xl:h-screen xl:max-h-screen flex flex-col justify-between dark:bg-black bg-foreground xl:text-xs sm:text-xxs mobile:text-xxs w-screen overflow-y-hidden&quot;]/header[@class=&quot;z-20 sticky top-0  w-screen order-first flex bg-white dark:bg-bahana-dark shadow-header&quot;]/div[@class=&quot;flex flex-wrap xl:flex-nowrap mobile:justify-around border-b dark:border-b-bahana-dark w-full&quot;]/div[@class=&quot;order-2 xl:order-3 flex flex-col items-center justify-center gap-3 w-[98px] h-[98px]&quot;]/div[@class=&quot;flex flex-col font-semibold text-center btn-primary-bahana shadow-md text-white rounded-2xl w-[70px] h-[70px] items-center justify-center cursor-pointer&quot;]</value>
+      <webElementGuid>dde88a0f-2891-44a8-9524-98987558c36c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='More'])[1]/following::div[2]</value>
+      <webElementGuid>b1344ec3-6ffa-4c5a-a720-3c1b2850a625</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Live Trade'])[1]/following::div[4]</value>
+      <webElementGuid>04b89f62-2ded-426e-b65d-e9d90aaad472</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Register Account Bahana Sekuritas'])[1]/preceding::div[1]</value>
+      <webElementGuid>40286993-97ca-4c1a-a588-d92723aeef1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div</value>
+      <webElementGuid>6a3c912b-c355-4f2a-907b-e343de3e8275</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'ORDER' or . = 'ORDER')]</value>
+      <webElementGuid>262550d7-907b-410b-885e-25421e161718</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
