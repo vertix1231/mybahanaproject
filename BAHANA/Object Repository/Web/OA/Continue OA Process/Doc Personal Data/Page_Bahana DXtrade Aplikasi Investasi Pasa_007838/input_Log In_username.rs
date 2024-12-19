@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value></value>
+         <value>//input[@id='floating_filledusername']</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>b435a4be-4f48-4553-a641-671b699c479f</webElementGuid>
+      <webElementGuid>75a9da36-49e9-4bd2-bddf-acb0900e6b4a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>floating_filledusername</value>
-      <webElementGuid>5790919c-5a7d-4c76-875e-d0fef7d37dd3</webElementGuid>
+      <webElementGuid>d379b544-b3f0-4d7c-93ad-3fcc9cf4a788</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>font-semibold text-bahana-black block rounded-lg px-2.5 pb-2.5 pt-5 w-full text-sm bg-gray-25 dark:bg-black border-2 appearance-none dark:text-white dark:border-bahana-dark-border dark:focus:border-blue-500 focus:outline-none focus:ring-0 peer border-gray-300 disabled:bg-[#F2F2F2]</value>
-      <webElementGuid>d5faf955-480a-44d5-b4ce-17b151be0038</webElementGuid>
+      <webElementGuid>6e1120ae-1d29-48ff-83c5-b3fcc9141516</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>3bb037fb-3de0-42b6-aa25-89b6917532b0</webElementGuid>
+      <webElementGuid>72b4bafc-21b4-43f4-ab52-6839c622a722</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>data-date-format</name>
       <type>Main</type>
       <value>dd/mm/yyyy</value>
-      <webElementGuid>c579e7f8-b1a1-4367-8d87-fac222cc89a0</webElementGuid>
+      <webElementGuid>e5d3b08f-ecc3-4661-93d7-a47366661610</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>6f869c34-f7a8-4e96-9611-0ea61635b2d5</webElementGuid>
+      <webElementGuid>f791144d-4b91-4a8f-93f3-ca693d34ad5c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>name</name>
       <type>Main</type>
       <value>username</value>
-      <webElementGuid>9fb4b499-f9df-4566-bc7e-3c0a653172ca</webElementGuid>
+      <webElementGuid>1ec58dd6-0793-4e61-a5bf-b636106f628a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;floating_filledusername&quot;)</value>
-      <webElementGuid>1c42f4f3-af04-4eda-aaff-2710fb964ece</webElementGuid>
+      <webElementGuid>6a9b901c-11c9-4d66-9b67-6f7c4299c862</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='floating_filledusername']</value>
-      <webElementGuid>3bd68aac-1c31-47c4-8920-075518298e9a</webElementGuid>
+      <webElementGuid>dfbbdd03-60d5-45a6-9e27-8d0975634bba</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>ecf87682-85fe-48d0-ad8b-0678909cf43b</webElementGuid>
+      <webElementGuid>24942db5-f2c5-472e-91b1-2216c7329b03</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'floating_filledusername' and @type = 'text' and @name = 'username']</value>
-      <webElementGuid>645513e1-9af2-4bc0-ad9d-2ab553882428</webElementGuid>
+      <webElementGuid>8794a40d-d9fe-4495-a0bb-9ebbdc61cd9e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

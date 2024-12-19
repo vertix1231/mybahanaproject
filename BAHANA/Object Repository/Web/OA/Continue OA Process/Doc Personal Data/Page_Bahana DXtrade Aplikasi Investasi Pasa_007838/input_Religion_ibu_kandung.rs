@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Email or Username_pwd</name>
+   <name>input_Religion_ibu_kandung</name>
    <tag></tag>
-   <elementGuidId>a0401ab8-f5d8-4a8f-baa6-12b864b948e8</elementGuidId>
+   <elementGuidId>32dc8ed6-24f3-46b1-928c-d25873ddef80</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='floating_filledpwd']</value>
+         <value>//input[@id='floating_filledibu_kandung']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#floating_filledpwd</value>
+         <value>#floating_filledibu_kandung</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,15 +22,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>5bd034ae-c5b2-4d1f-b381-b092e19377f1</webElementGuid>
+      <webElementGuid>93afc532-68a3-42de-98f5-7282dfde9031</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>floating_filledpwd</value>
-      <webElementGuid>893d52f8-8e7a-4615-9a4d-87f65956bc03</webElementGuid>
+      <value>floating_filledibu_kandung</value>
+      <webElementGuid>6063dddc-cad5-4551-b63b-006ce364adbd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>font-semibold text-bahana-black block rounded-lg px-2.5 pb-2.5 pt-5 w-full text-sm bg-gray-25 dark:bg-black border-2 appearance-none dark:text-white dark:border-bahana-dark-border dark:focus:border-blue-500 focus:outline-none focus:ring-0 peer border-gray-300 disabled:bg-[#F2F2F2]</value>
-      <webElementGuid>dd0f83a6-2677-4908-a334-4feb0739f8aa</webElementGuid>
+      <webElementGuid>0c08a92f-6c0a-4b35-9b87-01d7aa77321a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>fc3c234b-91fa-4c5f-95fd-6104f0a05825</webElementGuid>
+      <webElementGuid>6f99bf11-39e8-4b10-bc24-e1f19772b2c9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,54 +54,54 @@
       <name>data-date-format</name>
       <type>Main</type>
       <value>dd/mm/yyyy</value>
-      <webElementGuid>be77b93b-8c94-4379-81ee-652a0395bb41</webElementGuid>
+      <webElementGuid>2ce67460-908f-4251-9508-e69041e1ac2f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>password</value>
-      <webElementGuid>6f066a15-11e9-49c6-b0de-837976f01f9c</webElementGuid>
+      <value>text</value>
+      <webElementGuid>a4c0861d-4b8f-4b61-9e17-b83e96bf59e1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>pwd</value>
-      <webElementGuid>a145a289-516c-4c80-b7a6-848b2eb760e8</webElementGuid>
+      <value>ibu_kandung</value>
+      <webElementGuid>74000613-efd0-448c-8e36-cc019fd1bfc9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;floating_filledpwd&quot;)</value>
-      <webElementGuid>d785d6b3-156e-4da3-9543-4783b519fd00</webElementGuid>
+      <value>id(&quot;floating_filledibu_kandung&quot;)</value>
+      <webElementGuid>30062857-ffc1-4213-9655-dce3850b6c8c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='floating_filledpwd']</value>
-      <webElementGuid>9666c55f-a0ba-49f7-8901-295b4224c916</webElementGuid>
+      <value>//input[@id='floating_filledibu_kandung']</value>
+      <webElementGuid>7fd202f2-658a-43bd-b063-40ace59eabfc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/input</value>
-      <webElementGuid>7f89ec9d-6f76-4447-890b-732364a8bcbb</webElementGuid>
+      <value>//div[11]/input</value>
+      <webElementGuid>c7efe141-b6cd-4c14-a864-3a1eb65a686d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@id = 'floating_filledpwd' and @type = 'password' and @name = 'pwd']</value>
-      <webElementGuid>6f6ec46b-0141-47ef-8e20-6651a2aa9fe8</webElementGuid>
+      <value>//input[@id = 'floating_filledibu_kandung' and @type = 'text' and @name = 'ibu_kandung']</value>
+      <webElementGuid>2d886671-7ce8-4054-9a4b-8780ddc4a2a8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -46,23 +46,25 @@ WebUI.click(findTestObject('Object Repository/Web/OA/Page_Bahana DXtrade Aplikas
 
 WebUI.click(findTestObject('Object Repository/Web/OA/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/input_Approval of Opening a Rekening Dana N_4231a1'))
 
-WebUI.click(findTestObject('Object Repository/Web/OA/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/button_Continue'))
+WebUI.click(findTestObject('Web/OA/Page_Bahana DXtrade Aplikasi Investasi Pasar Modal Multi Asset resmi dari Bahana Sekuritas/button_Continue'))
 
 WebUI.click(findTestObject('Object Repository/Web/OA/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/button_Create'))
 
 WebUI.click(findTestObject('Object Repository/Web/OA/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/label_Name According to e-KTP'))
 
 WebUI.setText(findTestObject('Object Repository/Web/OA/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/input_Enter your full name and e-KTP number_4eefdf'), 
-    'Irsyad Muhammad Andre')
+    GlobalVariable.name_ektp)
 
 WebUI.setText(findTestObject('Object Repository/Web/OA/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/input_Name According to e-KTP_nomor_ektp'), 
     GlobalVariable.ektp)
 
-WebUI.setText(findTestObject('Object Repository/Web/OA/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/input_Referral Code_account_opening_information'), 
-    '')
+WebUI.click(findTestObject('Web/OA/Page_Bahana DXtrade Aplikasi Investasi Pasar Modal Multi Asset resmi dari Bahana Sekuritas/input_Referral Code_account_opening_information'))
 
-WebUI.click(findTestObject('Object Repository/Web/OA/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/div_Social Media (Instagram, Twitter, Facebook)'))
+WebUI.click(findTestObject('Web/OA/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/div_Social Media (Instagram, Twitter, Facebook)'))
 
-//WebUI.click(findTestObject('Object Repository/Web/OA/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/button_Verify'))
-WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\openinvestaccout1.jpg')
+WebUI.click(findTestObject('Web/OA/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/button_Verify'))
+
+Thread.sleep(5000)
+
+WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\openinvestaccout_verifidentity1.jpg')
 

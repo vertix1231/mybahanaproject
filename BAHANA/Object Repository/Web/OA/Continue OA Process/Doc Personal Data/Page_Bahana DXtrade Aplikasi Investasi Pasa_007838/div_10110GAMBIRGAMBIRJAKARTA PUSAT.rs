@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_10110GAMBIRGAMBIRJAKARTA PUSAT</name>
+   <tag></tag>
+   <elementGuidId>8874dc45-3045-44f8-b623-162c0d3d1de9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='headlessui-combobox-option-:r4:']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.py-1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c93dd2fe-c79a-4343-8a9e-b9bc814a6252</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>py-1</value>
+      <webElementGuid>7421316b-7377-4e41-97d1-b7c98f2c031f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>10110/GAMBIR/GAMBIR/JAKARTA PUSAT</value>
+      <webElementGuid>cee0553a-9c0f-464b-a4c1-0c612a15bde8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-combobox-option-:r4:&quot;)/div[@class=&quot;py-1&quot;]</value>
+      <webElementGuid>14f1dd3e-9293-4112-881b-d047618b60b2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='headlessui-combobox-option-:r4:']/div</value>
+      <webElementGuid>cc391b10-5910-4c0a-8bd1-3cdede9bc912</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zip Code/ District/ Subdistrict'])[1]/following::div[1]</value>
+      <webElementGuid>946e091b-fc0f-4812-a1ca-c48e54956030</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='button search'])[1]/following::div[1]</value>
+      <webElementGuid>d28dc6b0-5e73-4745-96fe-66cac6572b37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RT'])[1]/preceding::div[1]</value>
+      <webElementGuid>58ae2e00-2f6e-4dca-8d97-9ad1dc6402bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RW'])[1]/preceding::div[2]</value>
+      <webElementGuid>8fc12bd2-9013-441d-beb5-3c57e0ebf08f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='10110/GAMBIR/GAMBIR/JAKARTA PUSAT']/parent::*</value>
+      <webElementGuid>c84fb52e-79d4-47bf-a8da-9ad42ead4551</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div</value>
+      <webElementGuid>ac071651-1c68-4203-919f-eca2a080d1c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '10110/GAMBIR/GAMBIR/JAKARTA PUSAT' or . = '10110/GAMBIR/GAMBIR/JAKARTA PUSAT')]</value>
+      <webElementGuid>8875d124-b3d5-4f79-a3c2-968c96a60ec6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

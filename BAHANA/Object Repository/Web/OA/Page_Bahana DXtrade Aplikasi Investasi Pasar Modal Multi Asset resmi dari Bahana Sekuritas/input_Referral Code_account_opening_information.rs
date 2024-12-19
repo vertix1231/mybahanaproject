@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Email or Username_pwd</name>
+   <name>input_Referral Code_account_opening_information</name>
    <tag></tag>
-   <elementGuidId>a0401ab8-f5d8-4a8f-baa6-12b864b948e8</elementGuidId>
+   <elementGuidId>540046b7-4479-4f8f-a2c3-0d4c5c330987</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='floating_filledpwd']</value>
+         <value>//input[@id='floating_filledaccount_opening_information']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#floating_filledpwd</value>
+         <value>#floating_filledaccount_opening_information</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,23 +22,23 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>5bd034ae-c5b2-4d1f-b381-b092e19377f1</webElementGuid>
+      <webElementGuid>e38c4994-0a1f-4698-9493-906045a2a064</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>floating_filledpwd</value>
-      <webElementGuid>893d52f8-8e7a-4615-9a4d-87f65956bc03</webElementGuid>
+      <value>floating_filledaccount_opening_information</value>
+      <webElementGuid>01a11411-7dc1-4a54-9325-88ffa6cb1bb2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>font-semibold text-bahana-black block rounded-lg px-2.5 pb-2.5 pt-5 w-full text-sm bg-gray-25 dark:bg-black border-2 appearance-none dark:text-white dark:border-bahana-dark-border dark:focus:border-blue-500 focus:outline-none focus:ring-0 peer border-gray-300 disabled:bg-[#F2F2F2]</value>
-      <webElementGuid>dd0f83a6-2677-4908-a334-4feb0739f8aa</webElementGuid>
+      <value>font-semibold text-bahana-black block rounded-lg px-2.5 pb-2.5 pt-5 w-full text-sm bg-gray-25 dark:bg-black border-2 appearance-none dark:text-white dark:border-bahana-dark-border dark:focus:border-blue-500 focus:outline-none focus:ring-0 peer border-gray-300</value>
+      <webElementGuid>6425895b-477c-4586-9cc8-c40fc9076295</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,62 +46,54 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>fc3c234b-91fa-4c5f-95fd-6104f0a05825</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>data-date-format</name>
-      <type>Main</type>
-      <value>dd/mm/yyyy</value>
-      <webElementGuid>be77b93b-8c94-4379-81ee-652a0395bb41</webElementGuid>
+      <webElementGuid>eb8f772c-03db-43f1-9fe9-6213d101034c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>password</value>
-      <webElementGuid>6f066a15-11e9-49c6-b0de-837976f01f9c</webElementGuid>
+      <value>text</value>
+      <webElementGuid>f95219ad-f054-4aa2-b568-7b6db7293bd0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>pwd</value>
-      <webElementGuid>a145a289-516c-4c80-b7a6-848b2eb760e8</webElementGuid>
+      <value>account_opening_information</value>
+      <webElementGuid>3c4d489d-ed74-4969-9d5d-3aa7ca309b39</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;floating_filledpwd&quot;)</value>
-      <webElementGuid>d785d6b3-156e-4da3-9543-4783b519fd00</webElementGuid>
+      <value>id(&quot;floating_filledaccount_opening_information&quot;)</value>
+      <webElementGuid>ad533bda-cff5-422e-8719-912d93b8fddb</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='floating_filledpwd']</value>
-      <webElementGuid>9666c55f-a0ba-49f7-8901-295b4224c916</webElementGuid>
+      <value>//input[@id='floating_filledaccount_opening_information']</value>
+      <webElementGuid>b97d9a92-d5fc-41fc-8aa1-d1a2cdd1e0ab</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/input</value>
-      <webElementGuid>7f89ec9d-6f76-4447-890b-732364a8bcbb</webElementGuid>
+      <value>//div[7]/input</value>
+      <webElementGuid>bbcf57cc-11f5-4cfb-a603-5d7592af7eb1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@id = 'floating_filledpwd' and @type = 'password' and @name = 'pwd']</value>
-      <webElementGuid>6f6ec46b-0141-47ef-8e20-6651a2aa9fe8</webElementGuid>
+      <value>//input[@id = 'floating_filledaccount_opening_information' and @type = 'text' and @name = 'account_opening_information']</value>
+      <webElementGuid>0c27806b-91bd-4c4e-b88b-1d51ed33cdbe</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

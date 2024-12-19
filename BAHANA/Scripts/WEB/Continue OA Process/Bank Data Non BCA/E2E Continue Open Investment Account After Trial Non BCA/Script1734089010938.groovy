@@ -52,15 +52,14 @@ WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Page_Ba
 WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/div_BANK CIMB NIAGA'))
 
 WebUI.setText(findTestObject('Object Repository/Web/OA/Continue OA Process/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/input_Personal Bank Account_nama_pemilik_rek'), 
-    'Irsyad Muhammad Andre')
+    GlobalVariable.bank_owner_name)
 
 WebUI.setText(findTestObject('Object Repository/Web/OA/Continue OA Process/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/input_Account Owner Name_no_rek'), 
-    '1111111111111')
+    GlobalVariable.rek_bank)
 
 WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/button_Save  Next'))
 
 Thread.sleep(10000)
 
 WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\continueopeninvestaccout_bank_info_baca2.jpg')
-
 

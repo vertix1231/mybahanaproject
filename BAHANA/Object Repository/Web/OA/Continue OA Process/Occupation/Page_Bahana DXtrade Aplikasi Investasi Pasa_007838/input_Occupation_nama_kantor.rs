@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Email or Username_pwd</name>
+   <name>input_Occupation_nama_kantor</name>
    <tag></tag>
-   <elementGuidId>a0401ab8-f5d8-4a8f-baa6-12b864b948e8</elementGuidId>
+   <elementGuidId>3c8df558-6fef-476e-9299-8263b087921b</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='floating_filledpwd']</value>
+         <value>//input[@id='floating_fillednama_kantor']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#floating_filledpwd</value>
+         <value>#floating_fillednama_kantor</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,15 +22,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>5bd034ae-c5b2-4d1f-b381-b092e19377f1</webElementGuid>
+      <webElementGuid>9fdf1849-0c4a-4778-9b74-9d74f1447b05</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>floating_filledpwd</value>
-      <webElementGuid>893d52f8-8e7a-4615-9a4d-87f65956bc03</webElementGuid>
+      <value>floating_fillednama_kantor</value>
+      <webElementGuid>b6797a88-2466-4b7a-9bb9-bd82613d020a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>font-semibold text-bahana-black block rounded-lg px-2.5 pb-2.5 pt-5 w-full text-sm bg-gray-25 dark:bg-black border-2 appearance-none dark:text-white dark:border-bahana-dark-border dark:focus:border-blue-500 focus:outline-none focus:ring-0 peer border-gray-300 disabled:bg-[#F2F2F2]</value>
-      <webElementGuid>dd0f83a6-2677-4908-a334-4feb0739f8aa</webElementGuid>
+      <webElementGuid>eeb054a0-58d7-44de-961a-49958c0353e8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>fc3c234b-91fa-4c5f-95fd-6104f0a05825</webElementGuid>
+      <webElementGuid>bc3fbd66-5da2-4730-8feb-14f6f08e4935</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,54 +54,54 @@
       <name>data-date-format</name>
       <type>Main</type>
       <value>dd/mm/yyyy</value>
-      <webElementGuid>be77b93b-8c94-4379-81ee-652a0395bb41</webElementGuid>
+      <webElementGuid>9384d72c-27aa-4acc-bce8-e59c962f8ad6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>password</value>
-      <webElementGuid>6f066a15-11e9-49c6-b0de-837976f01f9c</webElementGuid>
+      <value>text</value>
+      <webElementGuid>cd45898f-392b-4d8d-82e2-f0c5b353e3cb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>pwd</value>
-      <webElementGuid>a145a289-516c-4c80-b7a6-848b2eb760e8</webElementGuid>
+      <value>nama_kantor</value>
+      <webElementGuid>a3619d83-bc75-4c3a-9d76-09fa5923967a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;floating_filledpwd&quot;)</value>
-      <webElementGuid>d785d6b3-156e-4da3-9543-4783b519fd00</webElementGuid>
+      <value>id(&quot;floating_fillednama_kantor&quot;)</value>
+      <webElementGuid>2012ed82-1823-45f9-aeb1-fbdedaabd968</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='floating_filledpwd']</value>
-      <webElementGuid>9666c55f-a0ba-49f7-8901-295b4224c916</webElementGuid>
+      <value>//input[@id='floating_fillednama_kantor']</value>
+      <webElementGuid>af3c602d-d464-4447-af48-34ca8d9c0d8d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/input</value>
-      <webElementGuid>7f89ec9d-6f76-4447-890b-732364a8bcbb</webElementGuid>
+      <value>//div[5]/input</value>
+      <webElementGuid>f5e4c1b3-a6a8-4a1a-a9f2-3dd5199c87a5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@id = 'floating_filledpwd' and @type = 'password' and @name = 'pwd']</value>
-      <webElementGuid>6f6ec46b-0141-47ef-8e20-6651a2aa9fe8</webElementGuid>
+      <value>//input[@id = 'floating_fillednama_kantor' and @type = 'text' and @name = 'nama_kantor']</value>
+      <webElementGuid>af7239f4-3986-4fb2-9388-4a9407ac6e3b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

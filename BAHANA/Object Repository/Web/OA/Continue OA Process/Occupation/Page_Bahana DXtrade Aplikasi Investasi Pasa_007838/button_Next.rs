@@ -3,15 +3,15 @@
    <description></description>
    <name>button_Next</name>
    <tag></tag>
-   <elementGuidId>b99905d8-5cc5-44fc-8b01-464755882d5f</elementGuidId>
+   <elementGuidId>f56f7c53-510f-425b-956a-bc93eb5105f9</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='NPWP Photo (Optional)'])[1]/following::button[1]</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Phone Number'])[1]/following::button[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>95731b12-0034-4e8b-b99c-6f7a03d50160</webElementGuid>
+      <webElementGuid>05f28791-3d75-47a8-b1b7-6d9cd64f241d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mt-6 w-full text-center py-[10px] rounded-lg text-white font-bold text-sm bg-bahana-primary disabled:opacity-50</value>
-      <webElementGuid>b1176ad9-2622-4e5b-8ed0-7007d28d417b</webElementGuid>
+      <webElementGuid>3aad05d5-3ac8-4ac1-b3ce-911aa7fc69e7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Next</value>
-      <webElementGuid>9fc23f7e-003e-4e29-b36e-21c31098326d</webElementGuid>
+      <webElementGuid>67671d5a-2cd8-4a7c-a5ca-78ec8683bb28</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,23 +46,39 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;__className_d65c78 max-h-screen&quot;]/div[@class=&quot;dark:text-zinc-800 flex justify-center items-center&quot;]/div[@class=&quot;w-screen self-start min-h-screen flex flex-col&quot;]/div[@class=&quot;flex-auto grid justify-center items-center bg-[#F6F6F6] dark:bg-bahana-dark pt-3&quot;]/div[@class=&quot;bg-white dark:bg-bahana-dark rounded-lg shadow p-8 w-full min-h-[700px] text-center text-sm min-w-[792px] max-w-[792px]&quot;]/button[@class=&quot;mt-6 w-full text-center py-[10px] rounded-lg text-white font-bold text-sm bg-bahana-primary disabled:opacity-50&quot;]</value>
-      <webElementGuid>75f9c079-1da5-4f95-92c2-e2c275b45217</webElementGuid>
+      <webElementGuid>bdf09e21-4020-4879-91d1-2464aa70698c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='NPWP Photo (Optional)'])[1]/following::button[1]</value>
-      <webElementGuid>b0b41688-21ce-4c10-9ae0-cd633647727c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phone Number'])[1]/following::button[1]</value>
+      <webElementGuid>088b2233-9e60-434e-8b05-5298540a587e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Face Verification'])[1]/following::button[1]</value>
-      <webElementGuid>4c184902-806e-4291-8c80-f5b9a82ae9c9</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zip Code/Subdistrict/District'])[1]/following::button[2]</value>
+      <webElementGuid>e5e2d2ab-bff2-4e74-8cae-c6c61bcfb5ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::button[1]</value>
+      <webElementGuid>794407f6-eb75-4530-8717-9bcd9a5d6a79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alt'])[1]/preceding::button[1]</value>
+      <webElementGuid>0f3a7841-7de1-4f61-b7ee-26be0a94ba58</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Next']/parent::*</value>
-      <webElementGuid>e31aefa7-5380-44df-b0f3-4c814f417147</webElementGuid>
+      <webElementGuid>dd1d0abd-97ad-4e47-8d96-2fbc5cc83109</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/button</value>
-      <webElementGuid>9329fc89-ac77-4f85-af35-64e5ba1cd1e3</webElementGuid>
+      <webElementGuid>72a1d73b-88e0-42b0-9c83-0d342d65b770</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,30 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = 'Next' or . = 'Next')]</value>
-      <webElementGuid>8d205dcf-760e-45e1-890c-665726b4a74e</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='NPWP Number'])[1]/following::button[1]</value>
-      <webElementGuid>f5813015-417d-46d2-aa4c-68a86fd4520c</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='ktp gw irsyad.jpg'])[2]/following::button[2]</value>
-      <webElementGuid>9651d08e-d8e6-4dcd-b6f5-fdb51d0b05c5</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div/button</value>
-      <webElementGuid>afc427c9-519a-4bb6-a39d-026f03051dbb</webElementGuid>
+      <webElementGuid>c050631f-0916-4dea-829f-fbc190dc030e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

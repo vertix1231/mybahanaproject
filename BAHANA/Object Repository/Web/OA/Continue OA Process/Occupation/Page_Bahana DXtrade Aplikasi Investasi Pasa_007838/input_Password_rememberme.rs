@@ -3,7 +3,7 @@
    <description></description>
    <name>input_Password_rememberme</name>
    <tag></tag>
-   <elementGuidId>e340317c-bbde-4119-aa65-50da3c35fa58</elementGuidId>
+   <elementGuidId>043d4b9b-b9d7-4acb-8233-c47644ac5442</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>

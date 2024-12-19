@@ -6,7 +6,7 @@
    <defaultProfile>true</defaultProfile>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'dxtest533@yopmail.com'</initValue>
+      <initValue>'rabu1@gmail.com'</initValue>
       <name>email</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -23,5 +23,30 @@
       <description></description>
       <initValue>'3271041412980009'</initValue>
       <name>ektp</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'650705775404000'</initValue>
+      <name>npwp</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'3271041412980009'</initValue>
+      <name>nik</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Irsyad Muhammad Andre'</initValue>
+      <name>name_ektp</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Irsyad Muhammad Andre'</initValue>
+      <name>bank_owner_name</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'11111111111111111111'</initValue>
+      <name>rek_bank</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>
