@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Done</name>
+   <tag></tag>
+   <elementGuidId>10321593-b663-4513-9674-b4a6d018de46</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Your Registration is Completed'])[1]/following::button[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5ddde85b-5104-490a-bd5a-546265a06afb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full text-center py-3 rounded-lg text-white font-semibold text-xs bg-bahana-primary disabled:opacity-50</value>
+      <webElementGuid>e0d33da1-71ce-488e-8ab5-290cd4745d56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Done</value>
+      <webElementGuid>6e3e5e04-44b2-4b63-9863-5755afe726e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;__className_d65c78 max-h-screen&quot;]/div[@class=&quot;dark:text-zinc-800 flex justify-center items-center&quot;]/div[@class=&quot;w-screen self-start min-h-screen flex flex-col&quot;]/div[@class=&quot;fixed top-0 left-0 right-0 z-[55] w-full p-4 overflow-x-hidden overflow-y-auto md:inset-0 h-[calc(100%-1rem)] max-h-full  backdrop-blur-[3px] bg-black bg-opacity-60
+            flex justify-center items-center  min-h-screen text-xs transform transition-all duration-700 ease-in-out&quot;]/div[@class=&quot;relative w-full max-h-full max-w-[407px]&quot;]/div[@class=&quot;relative bg-white rounded-lg shadow dark:bg-bahana-dark&quot;]/div[@class=&quot;p-8 w-full&quot;]/button[@class=&quot;w-full text-center py-3 rounded-lg text-white font-semibold text-xs bg-bahana-primary disabled:opacity-50&quot;]</value>
+      <webElementGuid>262cd6fd-25d3-43b5-9db4-816e53f964b7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your Registration is Completed'])[1]/following::button[1]</value>
+      <webElementGuid>1c6cd8cd-b2b1-4115-b017-a0bba9e8dd45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IHSG'])[1]/preceding::button[1]</value>
+      <webElementGuid>70e05b00-4afe-410c-888a-0e16def0574c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IDXBASIC'])[1]/preceding::button[1]</value>
+      <webElementGuid>140adf1f-26aa-4eae-8b1b-502bfd36ffb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Done']/parent::*</value>
+      <webElementGuid>7d479eff-0bbd-404b-b82f-fddbbee1873e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>dc89f82f-2e58-4b1c-be9d-5f4b8f3e8395</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Done' or . = 'Done')]</value>
+      <webElementGuid>a1940cfa-ca7b-4d11-9b9e-f3b8d65fc335</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

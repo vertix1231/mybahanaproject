@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Doc Personal Data</name>
+   <name>Personal Data Status Single</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,19 +10,19 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>8356557d-5ae1-4671-a97f-a3ea2eddbec6</testSuiteGuid>
+   <testSuiteGuid>d877fe3f-7464-4207-9da1-4b446795bc00</testSuiteGuid>
    <testCaseLink>
-      <guid>9b8457f2-19ed-46fb-8a36-4c0a7ba5ae06</guid>
+      <guid>875b80fa-fa29-4d35-a6f8-89b63bc8689d</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/IRSYAD/WEB/Login/Remember Login with existing</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>97533444-2128-4efa-ae99-1d989e9bfc86</guid>
+      <guid>b88accf9-da0d-420c-baff-3f03de8e2185</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/IRSYAD/WEB/Continue OA Process/Doc Personal Data/Continue Open Investment Account After Trial Non BCA</testCaseId>
+      <testCaseId>Test Cases/IRSYAD/WEB/Continue OA Process/Personal Data Status Single/Continue Open Investment Account After Trial Non BCA</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

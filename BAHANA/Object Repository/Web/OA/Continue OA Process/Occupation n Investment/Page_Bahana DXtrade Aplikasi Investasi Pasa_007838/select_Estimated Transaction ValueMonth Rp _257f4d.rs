@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Estimated Transaction ValueMonth Rp _257f4d</name>
+   <tag></tag>
+   <elementGuidId>fd31ebbd-539d-4526-8afd-076f68677234</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;transaksi_id&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='transaksi_id']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>81201a38-f451-4382-83b2-1f00435e2eca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>transaksi_id</value>
+      <webElementGuid>c0bae608-b688-407d-ba78-1c3ab57dd84e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> block rounded-lg px-2.5 w-full text-sm align-middle bg-gray-25 dark:bg-gray-700 border-2 border-gray-300 appearance-none dark:border-gray-600 dark:focus:border-blue-500 focus:outline-none focus:ring-0 peer pb-4 pt-3.5 disabled:bg-[#EBEBE4] text-[#6b7280]</value>
+      <webElementGuid>cef264eb-8cb5-46ed-ba43-ac66b1e9c257</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Estimated Transaction Value/Month&lt; Rp 100 juta> Rp 100 juta – Rp 1 Milyar> Rp 1 Milyar – Rp 10 Milyar> Rp 10 Milyar</value>
+      <webElementGuid>8b0ebb71-baf3-47fa-ac28-f57215df7734</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;__className_d65c78 max-h-screen&quot;]/div[@class=&quot;dark:text-zinc-800 flex justify-center items-center&quot;]/div[@class=&quot;w-screen self-start min-h-screen flex flex-col&quot;]/div[@class=&quot;flex-auto grid justify-center items-center bg-[#F6F6F6] dark:bg-bahana-dark pt-3&quot;]/div[@class=&quot;bg-white dark:bg-bahana-dark rounded-lg shadow p-8 w-full min-h-[700px] text-center text-sm min-w-[792px] max-w-[792px]&quot;]/div[@class=&quot;relative relative mb-6 border-gray-300 border-3 rounded-lg relative&quot;]/select[@class=&quot;block rounded-lg px-2.5 w-full text-sm align-middle bg-gray-25 dark:bg-gray-700 border-2 border-gray-300 appearance-none dark:border-gray-600 dark:focus:border-blue-500 focus:outline-none focus:ring-0 peer pb-4 pt-3.5 disabled:bg-[#EBEBE4] text-[#6b7280]&quot;]</value>
+      <webElementGuid>c0ab7f30-9e4e-4530-a297-75bb9db03020</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='transaksi_id']</value>
+      <webElementGuid>b0771705-8d74-44aa-a3e1-5bddf05edc8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Investment Experience'])[2]/following::select[1]</value>
+      <webElementGuid>dbbe7739-4760-4da5-845c-5d0874db988f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Investment Purpose'])[2]/following::select[2]</value>
+      <webElementGuid>b17fdba1-17ec-4215-a915-da54045be4c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transaction Preference'])[1]/preceding::select[2]</value>
+      <webElementGuid>4b4d2762-4554-4dc7-992c-12bee9f77e2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Online'])[1]/preceding::select[2]</value>
+      <webElementGuid>28e9d6b9-628c-46eb-88ea-2ce8f4af9441</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/select</value>
+      <webElementGuid>2b46105a-dd19-485c-ad31-19acd5f2ad64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'transaksi_id' and (text() = 'Estimated Transaction Value/Month&lt; Rp 100 juta> Rp 100 juta – Rp 1 Milyar> Rp 1 Milyar – Rp 10 Milyar> Rp 10 Milyar' or . = 'Estimated Transaction Value/Month&lt; Rp 100 juta> Rp 100 juta – Rp 1 Milyar> Rp 1 Milyar – Rp 10 Milyar> Rp 10 Milyar')]</value>
+      <webElementGuid>25f81c9b-aa0c-444c-9cf3-a23a6335aecf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

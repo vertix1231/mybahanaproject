@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login with non existing account</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>34311032-7b29-4d65-af3b-cf30abe6c863</testCaseGuid>
+</TestCaseEntity>

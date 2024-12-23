@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login with empty usernameNemail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7e60a822-fd56-470a-96a5-0c6a0379607b</testCaseGuid>
+</TestCaseEntity>
