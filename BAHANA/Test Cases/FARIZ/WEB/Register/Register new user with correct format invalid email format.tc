@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>Register new user with correct format invalid email format</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>81ce4fb5-0cd6-458e-a26b-03bb0166ac41</testCaseGuid>
-</TestCaseEntity>

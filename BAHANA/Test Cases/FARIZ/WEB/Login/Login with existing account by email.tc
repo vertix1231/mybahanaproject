@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>Login with existing account by email</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>709f1bdc-cb98-475d-aa22-196ba59ff80b</testCaseGuid>
-</TestCaseEntity>
