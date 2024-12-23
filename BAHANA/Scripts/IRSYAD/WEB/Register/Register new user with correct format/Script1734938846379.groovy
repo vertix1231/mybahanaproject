@@ -34,7 +34,7 @@ WebUI.setText(findTestObject('Object Repository/Web/Register/Page_Bahana DXtrade
 WebUI.click(findTestObject('Object Repository/Web/Register/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/img'))
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Web/Register/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/input_Phone Number_pwd'), 
-    '8SQVv/p9jVQCCAdqbMx87w==')
+    'p4y+y39Ir5Natt0mUNKYvA==')
 
 WebUI.click(findTestObject('Object Repository/Web/Register/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/img'))
 
