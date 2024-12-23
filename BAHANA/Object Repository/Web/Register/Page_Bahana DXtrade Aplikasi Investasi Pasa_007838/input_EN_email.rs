@@ -6,12 +6,12 @@
    <elementGuidId>4891d2e2-23fa-46b9-86a3-00e40cf8c2dc</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='floating_filledemail']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#floating_filledemail</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='floating_filledemail']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>d885524e-5358-4d83-b365-9b4acec994c0</webElementGuid>
+      <webElementGuid>8ae3e811-ecd4-41c4-80c8-8fea2c93843e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>42dd4e34-4340-459b-aeeb-61be54d5690b</webElementGuid>
+      <webElementGuid>48dc5224-919a-4ba8-9382-83b4f1909f99</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,15 +38,15 @@
       <name>id</name>
       <type>Main</type>
       <value>floating_filledemail</value>
-      <webElementGuid>d62b09ec-5ade-455e-a1a6-67b7fb719a85</webElementGuid>
+      <webElementGuid>40d45c24-3c02-4bcd-a2fc-8b7b72cc15ea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>font-semibold text-bahana-black block rounded-lg px-2.5 pb-2.5 pt-5 w-full text-sm bg-gray-25 dark:bg-black border-2 appearance-none dark:text-white dark:border-bahana-dark-border dark:focus:border-blue-500 focus:outline-none focus:ring-0 peer border-gray-300</value>
-      <webElementGuid>10890fad-2cf3-4e4e-a61d-b5fc83c58732</webElementGuid>
+      <value>font-semibold text-bahana-black block rounded-lg px-2.5 pb-2.5 pt-5 w-full text-sm bg-gray-25 dark:bg-black border-2 appearance-none dark:text-white dark:border-bahana-dark-border dark:focus:border-blue-500 focus:outline-none focus:ring-0 peer border-gray-300 disabled:bg-[#F2F2F2]</value>
+      <webElementGuid>48c9372d-e76f-47e5-98d2-5b74213a4dd1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>e037eb86-a7dc-4e2b-9b0f-0657902171af</webElementGuid>
+      <webElementGuid>19135c2d-e592-440f-acc8-02e3712ae7d3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>data-date-format</name>
       <type>Main</type>
       <value>dd/mm/yyyy</value>
-      <webElementGuid>340a208a-3b83-4f7e-83cb-e306e3111fce</webElementGuid>
+      <webElementGuid>436b4b3a-6da6-4380-ad9a-acd5fc1bfe55</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>name</name>
       <type>Main</type>
       <value>email</value>
-      <webElementGuid>70bd3254-c8f2-49ef-89e0-07fc8be0d9a5</webElementGuid>
+      <webElementGuid>dd72c9a3-f926-4e51-84bf-8c4cdb64b4ac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;floating_filledemail&quot;)</value>
-      <webElementGuid>eef17f44-8434-478b-8650-3276453ab470</webElementGuid>
+      <webElementGuid>8aba0e34-de7a-40e1-a5f4-03aaa5f9f2f1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='floating_filledemail']</value>
-      <webElementGuid>327ab701-0780-4d5f-bfa1-19d382735442</webElementGuid>
+      <webElementGuid>c4335e5c-253f-43df-9b9d-c6a0eb216fc9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>ca4c931e-399b-4168-b21c-999c2ac17a1a</webElementGuid>
+      <webElementGuid>40ee9d8e-4561-458a-8b57-a1a2b1271b2c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @id = 'floating_filledemail' and @name = 'email']</value>
-      <webElementGuid>49936a79-283a-42de-b77a-a6547a371127</webElementGuid>
+      <webElementGuid>135a207d-637e-4dc4-8443-f55fb666064c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

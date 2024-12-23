@@ -15,7 +15,7 @@
       <guid>a3e2d4cc-eada-43d3-bd95-aac519257aa6</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/IRSYAD/WEB/Login/Remember Login with existing</testCaseId>
+      <testCaseId>Test Cases/IRSYAD/WEB/Login/Remember Login with existing valid account</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>

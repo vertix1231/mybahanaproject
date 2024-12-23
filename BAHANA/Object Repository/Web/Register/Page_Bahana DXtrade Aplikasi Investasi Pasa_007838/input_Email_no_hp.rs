@@ -6,12 +6,12 @@
    <elementGuidId>bd659f6f-4d26-462e-9c89-3ab1518f6284</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='floating_filledno_hp']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#floating_filledno_hp</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='floating_filledno_hp']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,15 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>73dec534-60f6-4495-90c0-6ba801dafd26</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>text</value>
-      <webElementGuid>b10d8169-c547-4e7b-b5ec-7ded63a76894</webElementGuid>
+      <webElementGuid>495c4d55-970f-4d94-87ad-44a6621215c7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,15 +30,15 @@
       <name>id</name>
       <type>Main</type>
       <value>floating_filledno_hp</value>
-      <webElementGuid>6db998a0-ae0d-4155-b358-0be2dc06b465</webElementGuid>
+      <webElementGuid>1371abd6-6243-4cd7-b966-0954208ce278</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>font-semibold text-bahana-black block rounded-lg px-2.5 pb-2.5 pt-5 w-full text-sm bg-gray-25 dark:bg-black border-2 appearance-none dark:text-white dark:border-bahana-dark-border dark:focus:border-blue-500 focus:outline-none focus:ring-0 peer border-gray-300</value>
-      <webElementGuid>1691c517-0c96-41d7-b4d6-f126c25fd918</webElementGuid>
+      <value>font-semibold text-bahana-black block rounded-lg px-2.5 pb-2.5 pt-5 w-full text-sm bg-gray-25 dark:bg-black border-2 border-gray-300 appearance-none dark:text-white dark:border-bahana-dark-border dark:focus:border-blue-500 focus:outline-none focus:ring-0 peer disabled:bg-[#F2F2F2]</value>
+      <webElementGuid>79906d98-4657-436b-8995-6145bb9aa5ea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,15 +46,15 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>b4242b7a-0fee-4ccb-a766-0ea8f91e1542</webElementGuid>
+      <webElementGuid>40415bdf-80f3-47f5-84de-e9c161e57092</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>data-date-format</name>
+      <name>type</name>
       <type>Main</type>
-      <value>dd/mm/yyyy</value>
-      <webElementGuid>ea9da9a9-5e45-414a-a09d-d9415eb7d3f6</webElementGuid>
+      <value>text</value>
+      <webElementGuid>fa5e1ebc-fae1-4f1c-a39e-1db27f182694</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +62,15 @@
       <name>name</name>
       <type>Main</type>
       <value>no_hp</value>
-      <webElementGuid>44d32c02-7961-413a-9fac-9a486106b931</webElementGuid>
+      <webElementGuid>c89fca25-5a55-4bcd-9d92-82856246e8d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>inputmode</name>
+      <type>Main</type>
+      <value>numeric</value>
+      <webElementGuid>f9e0e911-e991-4555-8243-8797c9f0202e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;floating_filledno_hp&quot;)</value>
-      <webElementGuid>14712b49-58d3-42a8-91d7-4aea38f1a621</webElementGuid>
+      <webElementGuid>c28d80ac-9286-43d4-8807-bd5516f34db9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='floating_filledno_hp']</value>
-      <webElementGuid>60c8c23a-54c4-4dcd-81f1-daefc23346b9</webElementGuid>
+      <webElementGuid>d7ded049-d5a8-433e-a71e-7eac1f1db36e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,14 +94,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/input</value>
-      <webElementGuid>281efe27-5ae6-4766-a641-b53b8156f940</webElementGuid>
+      <webElementGuid>0c8b5d4e-574d-4442-a4ec-bb2ab09e05c0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'text' and @id = 'floating_filledno_hp' and @name = 'no_hp']</value>
-      <webElementGuid>e3a46423-2b08-42b9-8aaa-126c05901480</webElementGuid>
+      <value>//input[@id = 'floating_filledno_hp' and @type = 'text' and @name = 'no_hp']</value>
+      <webElementGuid>caf0d50b-f900-4fe4-a915-e0f8ae6d30f2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

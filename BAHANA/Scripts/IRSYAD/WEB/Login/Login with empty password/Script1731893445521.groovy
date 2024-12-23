@@ -24,7 +24,7 @@ WebUI.maximizeWindow()
 WebUI.navigateToUrl('https://dev-hthbg.bahana.co.id:3030/')
 
 WebUI.setText(findTestObject('Object Repository/Web/Login/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/input_Log In_w-full border rounded-lg px-2 _607240'), 
-    'dxtest2')
+    'dxtest84')
 
 WebUI.click(findTestObject('Object Repository/Web/Login/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/button_Log In'))
 

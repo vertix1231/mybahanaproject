@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Register new user with passord less than 8 character</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>54457b95-9976-4682-b367-bb5bc988ad57</testCaseGuid>
+</TestCaseEntity>

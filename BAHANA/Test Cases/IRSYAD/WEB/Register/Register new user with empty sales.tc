@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Register new user with empty sales</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cba1d070-4586-4369-8f5c-3aca7e1885f0</testCaseGuid>
+</TestCaseEntity>

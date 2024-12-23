@@ -6,11 +6,12 @@
    <elementGuidId>bcf2dc60-9ff9-4281-a58c-0592219400f1</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy Policy.'])[1]/following::button[1]</value>
+         <key>CSS</key>
+         <value></value>
       </entry>
       <entry>
-         <key>CSS</key>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy Policy.'])[1]/following::button[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>ffdace0e-fc76-4c34-b6e5-d20243fbf9e3</webElementGuid>
+      <webElementGuid>7d5134bd-4aa0-493c-afc1-5ad8d35cc49c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>w-full bg-primary-bahana text-white py-2 rounded-lg disabled:opacity-50</value>
-      <webElementGuid>a9471da7-4cd2-464a-8f70-c456a8cfd95f</webElementGuid>
+      <webElementGuid>b834df06-7cc7-4d37-9cf8-f0ec8672504d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,15 +38,15 @@
       <name>text</name>
       <type>Main</type>
       <value>Next</value>
-      <webElementGuid>84487f27-8e36-49e8-b42c-d14e3197c564</webElementGuid>
+      <webElementGuid>82df77d9-4095-4e61-8edc-480f6dd131ff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[@class=&quot;__className_e66fe9 max-h-screen&quot;]/div[@class=&quot;dark:text-zinc-800 flex justify-center items-center&quot;]/div[@class=&quot;w-screen self-start min-h-screen flex flex-col&quot;]/div[@class=&quot;flex-auto grid grid-cols-1 md:grid-cols-2 gap-4 bg-[#F6F6F6] dark:bg-bahana-dark items-center&quot;]/div[@class=&quot;flex flex-col w-full h-full p-2 md:p-4 justify-center item-center&quot;]/div[@class=&quot;flex-auto h-full grid items-center justify-center&quot;]/div[@class=&quot;flex flex-col w-full max-w-lg gap-y-4&quot;]/div[@class=&quot;flex-auto flex flex-col gap-y-1.5 bg-white border rounded-lg p-8&quot;]/div[@class=&quot;text-xs mb-5&quot;]/button[@class=&quot;w-full bg-primary-bahana text-white py-2 rounded-lg disabled:opacity-50&quot;]</value>
-      <webElementGuid>00d4a4d1-c0f9-498b-a11f-10c7c4f1c180</webElementGuid>
+      <value>/html[1]/body[@class=&quot;__className_d65c78 max-h-screen&quot;]/div[@class=&quot;dark:text-zinc-800 flex justify-center items-center&quot;]/div[@class=&quot;w-screen self-start min-h-screen flex flex-col&quot;]/div[@class=&quot;flex-auto grid grid-cols-1 md:grid-cols-2 gap-4 bg-[#F6F6F6] dark:bg-bahana-dark items-center&quot;]/div[@class=&quot;flex flex-col w-full h-full p-2 md:p-4 justify-center item-center&quot;]/div[@class=&quot;flex-auto h-full grid items-center justify-center&quot;]/div[@class=&quot;flex flex-col w-full max-w-[520px] gap-y-4&quot;]/div[@class=&quot;flex-auto flex flex-col gap-y-1.5 bg-white border rounded-lg p-8&quot;]/div[@class=&quot;text-xs mb-5&quot;]/button[@class=&quot;w-full bg-primary-bahana text-white py-2 rounded-lg disabled:opacity-50&quot;]</value>
+      <webElementGuid>c7da978e-7f60-4bc0-823b-903acc1966e6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy Policy.'])[1]/following::button[1]</value>
-      <webElementGuid>416b4edc-1ce9-43a4-995b-c13e8d79751a</webElementGuid>
+      <webElementGuid>675052d1-5882-4e92-b75a-256274c4ab08</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Bahana DXtrade Terms &amp; Conditions'])[1]/following::button[1]</value>
-      <webElementGuid>4c8384a0-f03b-4032-9aaa-0e8be25425db</webElementGuid>
+      <webElementGuid>6c2a974c-105e-4107-a20d-dec1c9717fe0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/preceding::button[1]</value>
-      <webElementGuid>d91ecccb-6266-4112-9643-9cb15e6e93c4</webElementGuid>
+      <webElementGuid>103e845f-d81c-45a9-93df-1890a15e3918</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,15 +78,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Next']/parent::*</value>
-      <webElementGuid>dcc355fc-6c24-4eb0-96b5-eb102fb3a436</webElementGuid>
+      <webElementGuid>e36bdaee-a492-4f6d-a15a-22d1987ce734</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[7]/button</value>
-      <webElementGuid>faa3e439-fd84-42f0-ab48-411a534f4239</webElementGuid>
+      <value>//div[8]/button</value>
+      <webElementGuid>13797d0d-6f10-4aeb-87c4-4a9424afb3e3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = 'Next' or . = 'Next')]</value>
-      <webElementGuid>4b14ec30-1d5a-4e76-b501-e15f62d347e6</webElementGuid>
+      <webElementGuid>7288f806-25d9-4b61-a815-22f085046f3f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

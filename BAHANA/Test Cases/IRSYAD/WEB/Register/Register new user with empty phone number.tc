@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Register new user with empty phone number</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a65c7f88-e3c4-422b-80a0-16ba34874e6d</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Wont Remember Login with existing valid account</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ad26b6f5-6211-4b06-88f1-ada9a464bb52</testCaseGuid>
+</TestCaseEntity>

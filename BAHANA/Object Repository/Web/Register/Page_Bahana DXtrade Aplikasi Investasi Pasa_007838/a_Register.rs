@@ -6,12 +6,12 @@
    <elementGuidId>c7e1975c-6774-4656-b676-926eefb62c53</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//a[contains(text(),'Register')]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>a.font-bold.text-sky-500.underline.ml-2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Register')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>d8164e98-b60d-4ebc-9c35-199e14b49416</webElementGuid>
+      <webElementGuid>2c929bb0-b30d-4fac-b443-00b42e97a7c5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>font-bold text-sky-500 underline ml-2</value>
-      <webElementGuid>e3c3a2d7-be78-4f67-a19a-5a19c16b044a</webElementGuid>
+      <webElementGuid>8efdbdef-0452-477b-bd82-1d9151c687ce</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/webview</value>
-      <webElementGuid>f595890d-76c7-468a-aec7-d38f0894018e</webElementGuid>
+      <webElementGuid>8ab50f14-765d-4323-8673-cdbd94d531d8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,15 +46,15 @@
       <name>text</name>
       <type>Main</type>
       <value>Register</value>
-      <webElementGuid>225feb7d-1ad8-4adf-ac4c-bf2119cf9338</webElementGuid>
+      <webElementGuid>334c9a0e-b8dd-431b-ae8c-511e90754fa7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[@class=&quot;light&quot;]/body[@class=&quot;__className_e66fe9 max-h-screen&quot;]/main[@class=&quot;min-h-screen w-screen flex justify-stretch&quot;]/div[@class=&quot;w-full md:w-7/12 flex-row bg-[#F6F6F6] dark:bg-bahana-dark items-center&quot;]/div[@class=&quot;my-2 md:my-2 flex flex-col justify-center items-center pt-2 xl:pt-[0px] 2xl:pt-[90px]&quot;]/div[@class=&quot;bg-gray-300 dark:bg-gray-800 rounded-lg m-3 md:p-auto w-[425px]&quot;]/div[@class=&quot;justify-center items-center&quot;]/div[@class=&quot;p-6 rounded-lg bg-white dark:bg-bahana-dark-sec border border-white dark:border-bahana-dark-sec&quot;]/div[@class=&quot;text-center text-gray-500 dark:text-white mt-3 mb-8 text-sm&quot;]/a[@class=&quot;font-bold text-sky-500 underline ml-2&quot;]</value>
-      <webElementGuid>1ec00ace-4f00-4c1d-adff-f1412d18125e</webElementGuid>
+      <value>/html[@class=&quot;light&quot;]/body[@class=&quot;__className_d65c78 max-h-screen&quot;]/main[@class=&quot;min-h-screen w-screen flex justify-stretch&quot;]/div[@class=&quot;w-full md:w-7/12 flex-row bg-[#F6F6F6] dark:bg-bahana-dark items-center&quot;]/div[@class=&quot;my-2 md:my-2 flex flex-col justify-center items-center pt-2 xl:pt-[0px] 2xl:pt-[90px]&quot;]/div[@class=&quot;rounded-lg m-3 md:p-auto w-[425px]&quot;]/div[@class=&quot;justify-center items-center&quot;]/div[@class=&quot;p-6 rounded-lg bg-white dark:bg-bahana-dark-sec border border-white dark:border-bahana-dark-sec&quot;]/div[@class=&quot;text-center text-gray-500 dark:text-white mt-3 mb-8 text-sm&quot;]/a[@class=&quot;font-bold text-sky-500 underline ml-2&quot;]</value>
+      <webElementGuid>dca81866-3045-4ee4-98ff-50bd13675385</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Register')]</value>
-      <webElementGuid>c7745674-fff5-4118-b556-ebaefe274eea</webElementGuid>
+      <webElementGuid>24de8259-fb25-4a3a-a484-a323ad595a24</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Log In'])[2]/following::a[1]</value>
-      <webElementGuid>0d460e38-f723-4c25-ab03-a81b4eadd26f</webElementGuid>
+      <webElementGuid>994e3037-696e-49d2-a1dc-9aa98a94670f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='IHSG'])[1]/preceding::a[1]</value>
-      <webElementGuid>5222eae8-1624-45ce-ab53-11ee9c9bd384</webElementGuid>
+      <webElementGuid>9b782590-03f8-4334-aac4-c736c0ee0d1d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='IDXCYCLIC'])[1]/preceding::a[1]</value>
-      <webElementGuid>e792b984-fa01-47aa-b786-0be6da04b849</webElementGuid>
+      <webElementGuid>0522bf5f-d3e3-40da-b659-acd8db7737d5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Register']/parent::*</value>
-      <webElementGuid>5ab181dd-a5d2-4a6e-9ce3-926441cdf453</webElementGuid>
+      <webElementGuid>81c1a0e8-eece-41d8-a00d-0735acbf675c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/webview')]</value>
-      <webElementGuid>1d5d51a4-50d3-456d-860d-b12a0fc3e553</webElementGuid>
+      <webElementGuid>bb8e10b2-9256-4007-a394-58e80d9518ba</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/a</value>
-      <webElementGuid>bc5cb487-f6ac-4e98-8772-92cfa281fa84</webElementGuid>
+      <webElementGuid>4ed8952f-49cb-4c45-912f-f6ccc9544725</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/webview' and (text() = 'Register' or . = 'Register')]</value>
-      <webElementGuid>0742307d-9f96-4bbd-9e9d-b6514461902c</webElementGuid>
+      <webElementGuid>644c3ee8-0df7-4b43-92a8-ef3e51b759dd</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
