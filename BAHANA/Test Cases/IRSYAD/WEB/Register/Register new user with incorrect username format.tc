@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Register new user with incorrect username format</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f55196a1-7ad6-4bf6-a90e-91490f7c42b2</testCaseGuid>
+</TestCaseEntity>

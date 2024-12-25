@@ -58,12 +58,14 @@ WebUI.setText(findTestObject('Object Repository/Web/OA/Page_Bahana DXtrade Aplik
 WebUI.setText(findTestObject('Object Repository/Web/OA/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/input_Name According to e-KTP_nomor_ektp'), 
     GlobalVariable.ektp)
 
+WebUI.setText(findTestObject('Web/OA/Continue OA Process/Identity Check/Page_Bahana DXtrade Aplikasi Investasi Pasar Modal Multi Asset resmi dari Bahana Sekuritas/input_Optional_referal_code'), 
+    'adaaC_a12123')
+
 WebUI.click(findTestObject('Web/OA/Page_Bahana DXtrade Aplikasi Investasi Pasar Modal Multi Asset resmi dari Bahana Sekuritas/input_Referral Code_account_opening_information'))
 
 WebUI.click(findTestObject('Web/OA/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/div_Social Media (Instagram, Twitter, Facebook)'))
 
-WebUI.click(findTestObject('Web/OA/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/button_Verify'))
-
+//WebUI.click(findTestObject('Web/OA/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/button_Verify'))
 Thread.sleep(5000)
 
 WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\openinvestaccout_verifidentity1.jpg')

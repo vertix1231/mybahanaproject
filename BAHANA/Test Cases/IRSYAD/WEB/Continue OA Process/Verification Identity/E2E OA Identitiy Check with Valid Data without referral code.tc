@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>E2E OA Identitiy Check with Valid Data without referral code</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f24046ab-1f78-4eef-bacf-d22b817a5215</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>E2E OA Identitiy Check with empty all forms then relogin to continue Identity Check</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3bb0d4f4-350c-4f45-b3ec-1027683de624</testCaseGuid>
+</TestCaseEntity>
