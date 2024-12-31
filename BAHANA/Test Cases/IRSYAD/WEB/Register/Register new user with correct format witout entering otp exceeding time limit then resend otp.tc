@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Register new user with correct format witout entering otp exceeding time limit then resend otp</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>967d0e78-a8c3-43d2-bb04-775e8afed9fa</testCaseGuid>
+</TestCaseEntity>

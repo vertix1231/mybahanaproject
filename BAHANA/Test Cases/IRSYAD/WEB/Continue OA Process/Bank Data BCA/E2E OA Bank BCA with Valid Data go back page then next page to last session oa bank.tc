@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>E2E OA Bank BCA with Valid Data go back page then next page to last session oa bank</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f8f37416-e2c5-43ec-a50e-8345fa894849</testCaseGuid>
+</TestCaseEntity>

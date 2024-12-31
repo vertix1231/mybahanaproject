@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>E2E Continue Open Investment Account After Trial Non BCA</name>
+   <name>Continue OA Pelajar different address with Valid Data</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>425a01f0-3ab9-40bb-bb89-cec74fd96397</testCaseGuid>
+   <testCaseGuid>cad18954-7c04-4db9-b1d9-85b4b8a1ba49</testCaseGuid>
 </TestCaseEntity>

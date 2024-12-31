@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Log In_w-full border rounded-lg px-2 _607240</name>
+   <tag></tag>
+   <elementGuidId>c3e473be-45b4-423d-9596-89b32f4efa65</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@type='text']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>747d206b-8aaf-403b-81b2-f85d48897113</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Username</value>
+      <webElementGuid>72e68c72-8f66-4e7a-9f1b-a73b108b73a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full border rounded-lg px-2 py-3 my-2 focus:outline-blue-300 border-gray-200</value>
+      <webElementGuid>0fb2e256-c7a0-44ec-bde8-766e95c60732</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>05ac528e-46c9-4245-b2c2-56879315db0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;light&quot;]/body[@class=&quot;__className_e66fe9 max-h-screen&quot;]/main[@class=&quot;min-h-screen w-screen flex justify-stretch&quot;]/div[@class=&quot;w-full md:w-7/12 flex-row bg-[#F6F6F6] dark:bg-bahana-dark items-center&quot;]/div[@class=&quot;my-2 md:my-2 flex flex-col justify-center items-center pt-2 xl:pt-[0px] 2xl:pt-[90px]&quot;]/div[@class=&quot;bg-gray-300 dark:bg-gray-800 rounded-lg m-3 md:p-auto w-[425px]&quot;]/div[@class=&quot;justify-center items-center&quot;]/div[@class=&quot;p-6 rounded-lg bg-white dark:bg-bahana-dark-sec border border-white dark:border-bahana-dark-sec&quot;]/div[@class=&quot;relative text-sm&quot;]/input[@class=&quot;w-full border rounded-lg px-2 py-3 my-2 focus:outline-blue-300 border-gray-200&quot;]</value>
+      <webElementGuid>ec431721-31db-440c-ab6a-bd9b320cc2d0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@type='text']</value>
+      <webElementGuid>2465da59-f6cd-46a7-982c-d1409b7bee2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>80ff9eda-dd68-47da-8679-807de07d8b33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Username' and @type = 'text']</value>
+      <webElementGuid>95161ba1-e6f6-4a30-b1b8-59cbae91e72b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

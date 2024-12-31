@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Continue OA Bank BCA with empty RDN</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8f289928-42f6-4098-8a88-02aac3b82315</testCaseGuid>
+</TestCaseEntity>

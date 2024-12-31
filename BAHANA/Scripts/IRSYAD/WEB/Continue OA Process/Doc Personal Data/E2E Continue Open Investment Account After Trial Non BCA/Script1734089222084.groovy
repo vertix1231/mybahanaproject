@@ -27,7 +27,7 @@ WebUI.setText(findTestObject('Object Repository/Web/OA/Continue OA Process/Doc P
     GlobalVariable.email)
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Web/OA/Continue OA Process/Doc Personal Data/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/input_Log In_w-full border rounded-lg px-2 _607240_1'), 
-    '8SQVv/p9jVScEs4/2CZsLw==')
+    'p4y+y39Ir5Natt0mUNKYvA==')
 
 WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Doc Personal Data/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/input_Password_rememberme'))
 

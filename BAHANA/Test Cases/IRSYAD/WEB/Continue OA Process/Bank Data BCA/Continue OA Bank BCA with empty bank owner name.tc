@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Continue OA Bank BCA with empty bank owner name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3f8aee17-e869-4406-a40d-c434c81526ce</testCaseGuid>
+</TestCaseEntity>

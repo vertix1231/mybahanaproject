@@ -7,14 +7,14 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
+         <value>body > div > div > div.flex-auto.grid.justify-center.items-center.bg-\[\#F6F6F6\].dark\:bg-bahana-dark > div > button</value>
       </entry>
       <entry>
          <key>XPATH</key>
          <value>(.//*[normalize-space(text()) and normalize-space(.)='Your Registration is Completed'])[1]/following::button[1]</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>CSS</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>5ddde85b-5104-490a-bd5a-546265a06afb</webElementGuid>
+      <webElementGuid>2df54427-6f50-402f-a088-2cbded357379</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>w-full text-center py-3 rounded-lg text-white font-semibold text-xs bg-bahana-primary disabled:opacity-50</value>
-      <webElementGuid>e0d33da1-71ce-488e-8ab5-290cd4745d56</webElementGuid>
+      <webElementGuid>8d531dce-027f-4e4b-9d8f-33a7d3ba6449</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Done</value>
-      <webElementGuid>6e3e5e04-44b2-4b63-9863-5755afe726e1</webElementGuid>
+      <webElementGuid>930cbb39-a635-45bb-822b-3b667dd0514e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;__className_d65c78 max-h-screen&quot;]/div[@class=&quot;dark:text-zinc-800 flex justify-center items-center&quot;]/div[@class=&quot;w-screen self-start min-h-screen flex flex-col&quot;]/div[@class=&quot;fixed top-0 left-0 right-0 z-[55] w-full p-4 overflow-x-hidden overflow-y-auto md:inset-0 h-[calc(100%-1rem)] max-h-full  backdrop-blur-[3px] bg-black bg-opacity-60
             flex justify-center items-center  min-h-screen text-xs transform transition-all duration-700 ease-in-out&quot;]/div[@class=&quot;relative w-full max-h-full max-w-[407px]&quot;]/div[@class=&quot;relative bg-white rounded-lg shadow dark:bg-bahana-dark&quot;]/div[@class=&quot;p-8 w-full&quot;]/button[@class=&quot;w-full text-center py-3 rounded-lg text-white font-semibold text-xs bg-bahana-primary disabled:opacity-50&quot;]</value>
-      <webElementGuid>262cd6fd-25d3-43b5-9db4-816e53f964b7</webElementGuid>
+      <webElementGuid>7c59bf57-b814-444f-9981-3b4170357bff</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Your Registration is Completed'])[1]/following::button[1]</value>
-      <webElementGuid>1c6cd8cd-b2b1-4115-b017-a0bba9e8dd45</webElementGuid>
+      <webElementGuid>9cc35e32-55f5-4ddf-a0ca-1bee64a9bc75</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='IHSG'])[1]/preceding::button[1]</value>
-      <webElementGuid>70e05b00-4afe-410c-888a-0e16def0574c</webElementGuid>
+      <webElementGuid>d50037e4-977a-4845-ab84-4db2208b87ee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='IDXBASIC'])[1]/preceding::button[1]</value>
-      <webElementGuid>140adf1f-26aa-4eae-8b1b-502bfd36ffb2</webElementGuid>
+      <webElementGuid>02a4ffaf-5812-4ea6-a9a6-96b46dc24f0e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Done']/parent::*</value>
-      <webElementGuid>7d479eff-0bbd-404b-b82f-fddbbee1873e</webElementGuid>
+      <webElementGuid>8d0fe2ef-61dd-4bc8-9af7-9549e75afe10</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button</value>
-      <webElementGuid>dc89f82f-2e58-4b1c-be9d-5f4b8f3e8395</webElementGuid>
+      <webElementGuid>1d0a1719-cd87-46bc-b0ce-e6e371ef6ff6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,6 +95,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = 'Done' or . = 'Done')]</value>
-      <webElementGuid>a1940cfa-ca7b-4d11-9b9e-f3b8d65fc335</webElementGuid>
+      <webElementGuid>bda8c91e-5464-43d8-981d-906706e44f2d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

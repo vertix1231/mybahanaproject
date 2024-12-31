@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Continue Open Investment Account After Trial Non BCA</name>
+   <name>Continue OA Bank BCA with empty personal bank account</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>75fcf094-122b-477a-982c-f1bfbb153b46</testCaseGuid>
+   <testCaseGuid>97f22a30-033e-4bdf-8e69-f021cba71da1</testCaseGuid>
 </TestCaseEntity>
