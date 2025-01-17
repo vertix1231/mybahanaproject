@@ -31,20 +31,17 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Web/Login/Page_Bahana D
 
 WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Occupation n Investment/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/input_Password_rememberme'))
 
-WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Occupation n Investment/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/button_Log In'))
+WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Doc Personal Data/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/button_Log In'))
 
 Thread.sleep(1000)
 
-WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\oa proses\\oaktpverifnpwp1.jpg')
+WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\oa_beneficiary_owner_pelajar_1.jpg')
 
 Thread.sleep(10000)
 
 WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Occupation n Investment/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/button_Create Account Investment'))
 
 Thread.sleep(10000)
-
-//WebUI.click(findTestObject('Object Repository/Web/open investment account/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/button_Verify'))
-WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\beneficiaryoccupationowner1.jpg')
 
 Thread.sleep(1000)
 
@@ -75,6 +72,9 @@ WebUI.sendKeys(findTestObject('Object Repository/Web/OA/Continue OA Process/Occu
 WebUI.setText(findTestObject('Object Repository/Web/OA/Continue OA Process/Occupation n Investment/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/input_Main Source of Income_company_name'), 
     'Bahana Company Institution Test')
 
+//WebUI.click(findTestObject('Object Repository/Web/open investment account/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/button_Verify'))
+WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\oa_beneficiary_owner_pelajar_2.jpg')
+
 WebUI.setText(findTestObject('Object Repository/Web/OA/Continue OA Process/Occupation n Investment/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/input_button search_floating_filledfield_of_384513'), 
     'usaha kehutanan lainnya')
 
@@ -91,7 +91,7 @@ WebUI.setText(findTestObject('Object Repository/Web/OA/Continue OA Process/Occup
     'bogor indonesia')
 
 WebUI.setText(findTestObject('Object Repository/Web/OA/Continue OA Process/Occupation n Investment/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/input_button search_floating_filledcompany__9f3c9b'), 
-    '10110')
+    '41113')
 
 WebUI.sendKeys(findTestObject('Object Repository/Web/OA/Continue OA Process/Occupation n Investment/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/input_button search_floating_filledcompany__9f3c9b'), 
     Keys.chord(Keys.ENTER))
@@ -99,7 +99,9 @@ WebUI.sendKeys(findTestObject('Object Repository/Web/OA/Continue OA Process/Occu
 WebUI.setText(findTestObject('Object Repository/Web/OA/Continue OA Process/Occupation n Investment/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/input_Zip CodeSubdistrictDistrict_phone_number'), 
     '0882739101293')
 
-WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\beneficiaryoccupationowner2.jpg')
+WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\oa_beneficiary_owner_pelajar_3.jpg')
 
-WebUI.click(findTestObject('Web/OA/Continue OA Process/Occupation n Investment/Beneficiary Owner Occupation/button_Next'))
+WebUI.click(findTestObject('Web/OA/Continue OA Process/beneficiary owner next btn/button_Next'))
+
+WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\oa_beneficiary_owner_pelajar_4.jpg')
 

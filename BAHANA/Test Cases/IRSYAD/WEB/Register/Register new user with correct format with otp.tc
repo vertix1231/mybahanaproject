@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>Register new user with correct format with otp</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>51ba8699-1be8-4d27-9900-54b294410d19</testCaseGuid>
-</TestCaseEntity>

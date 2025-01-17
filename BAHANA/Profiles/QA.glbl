@@ -6,12 +6,12 @@
    <defaultProfile>true</defaultProfile>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'dxtest555@yopmail.com'</initValue>
+      <initValue>'dxtest578@yopmail.com'</initValue>
       <name>email</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'dxtest555@yopmail.com'</initValue>
+      <initValue>'dxtest578@yopmail.com'</initValue>
       <name>emailregis</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -36,12 +36,12 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'Irsyad Muhammad Andre'</initValue>
+      <initValue>'Irsyad Muhammad Andre pelajar'</initValue>
       <name>name_ektp</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'Irsyad Muhammad Andre'</initValue>
+      <initValue>'Irsyad Muhammad Andre pelajar'</initValue>
       <name>bank_owner_name</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>

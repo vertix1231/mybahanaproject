@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>E2E OA Bank Cimb Niaga with Valid Data go back page then next page to last session oa bank</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b149b1e8-7f42-48da-8bf2-84a22a67b8a1</testCaseGuid>
+</TestCaseEntity>
