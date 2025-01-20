@@ -19,20 +19,23 @@ import org.openqa.selenium.Keys as Keys
 
 Mobile.startExistingApplication('com.bahana.dxtrade2')
 
-Mobile.tap(findTestObject('Object Repository/Mobile/Login/android.widget.Button (5)'), 0)
+//Mobile.switchToNative()
+
+//Mobile.tap(findTestObject('Object Repository/Mobile/Login/android.widget.Button (5)'), 0)
 
 Mobile.tap(findTestObject('Object Repository/Mobile/Login/baru jam 9/android.widget.EditText'), 0)
 
-Mobile.setText(findTestObject('Object Repository/Mobile/Login/android.widget.EditText (5)'), GlobalVariable.email, 0)
+Mobile.setText(findTestObject('Object Repository/Mobile/Login/baru jam 9/android.widget.EditText (1)'), 'dxtest569@yopmail.com', 
+    0)
 
-Mobile.tap(findTestObject('Object Repository/Mobile/Login/android.widget.EditText (6)'), 0)
+Mobile.tap(findTestObject('Object Repository/Mobile/Login/baru jam 9/android.widget.EditText (2)'), 0)
 
-Mobile.setEncryptedText(findTestObject('Object Repository/Mobile/Login/android.widget.EditText (7)'), 'p4y+y39Ir5Natt0mUNKYvA==', 
+Mobile.setEncryptedText(findTestObject('Object Repository/Mobile/Login/baru jam 9/android.widget.EditText (3)'), 'p4y+y39Ir5Natt0mUNKYvA==', 
     0)
 
 Mobile.pressBack()
 
-Mobile.tap(findTestObject('Object Repository/Mobile/Login/android.widget.Button (6)'), 0)
+Mobile.tap(findTestObject('Object Repository/Mobile/Login/baru jam 9/android.widget.Button'), 0)
 
 Mobile.closeApplication()
 
