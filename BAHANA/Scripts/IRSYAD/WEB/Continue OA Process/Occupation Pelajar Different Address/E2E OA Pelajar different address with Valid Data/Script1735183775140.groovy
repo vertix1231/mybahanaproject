@@ -21,7 +21,7 @@ WebUI.openBrowser('')
 
 WebUI.maximizeWindow()
 
-WebUI.navigateToUrl('https://dev-hthbg.bahana.co.id:3030/')
+WebUI.navigateToUrl(GlobalVariable.url)
 
 WebUI.setText(findTestObject('Object Repository/Web/OA/Continue OA Process/Occupation n Investment/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/input_Log In_w-full border rounded-lg px-2 _607240'), 
     GlobalVariable.email)
@@ -55,7 +55,7 @@ WebUI.setText(findTestObject('Object Repository/Web/OA/Continue OA Process/Occup
     'Bahana Education Institution Test')
 
 WebUI.setText(findTestObject('Object Repository/Web/OA/Continue OA Process/Occupation n Investment/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/input_Address of Educational Institution_al_e8f64d'), 
-    'Jakarta')
+    'Jakarta alamat Beneficiary Owner Occupation pelajar')
 
 WebUI.setText(findTestObject('Object Repository/Web/OA/Continue OA Process/Occupation n Investment/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/input_button search_floating_filledaddress_obj'), 
     '10110')
@@ -80,6 +80,8 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/Web/OA/Continue OA P
 WebUI.setText(findTestObject('Object Repository/Web/OA/Continue OA Process/Occupation n Investment/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/input_Relation_ektp_number'), 
     '1111111111111111')
 
+WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\oa_occupation_pelajar_differentaddress3.jpg')
+
 WebUI.setText(findTestObject('Object Repository/Web/OA/Continue OA Process/Occupation n Investment/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/input_e-KTP Number_email'), 
     'andre@gmail.com')
 
@@ -88,6 +90,8 @@ WebUI.setText(findTestObject('Object Repository/Web/OA/Continue OA Process/Occup
 
 WebUI.setText(findTestObject('Object Repository/Web/OA/Continue OA Process/Occupation n Investment/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/input_No. Handphone_pob'), 
     'Riau')
+
+WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\oa_occupation_pelajar_differentaddress4.jpg')
 
 WebUI.setText(findTestObject('Object Repository/Web/OA/Continue OA Process/Occupation n Investment/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/input_Place of Birth_floating_filleddob_1'), 
     '13-07-1969')
@@ -113,8 +117,6 @@ WebUI.setText(findTestObject('Object Repository/Web/OA/Continue OA Process/Occup
 WebUI.sendKeys(findTestObject('Object Repository/Web/OA/Continue OA Process/Occupation n Investment/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/input_button search_floating_filledaddress_bo_obj'), 
     Keys.chord(Keys.ENTER))
 
-WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\oa_occupation_pelajar_differentaddress3.jpg')
-
 //WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Occupation n Investment/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/input_Beneficiary Owner Address_form-radio _54758c'))
 Thread.sleep(5000)
 
@@ -123,7 +125,9 @@ WebUI.scrollToElement(findTestObject('Web/OA/Continue OA Process/Occupation n In
 
 WebUI.verifyElementClickable(findTestObject('Web/OA/Continue OA Process/Occupation n Investment/btn baru 31 dec 2024-2/button_Next'))
 
+WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\oa_occupation_pelajar_differentaddress5.jpg')
+
 WebUI.click(findTestObject('Web/OA/Continue OA Process/Occupation n Investment/btn baru 31 dec 2024-2/button_Next'))
 
-WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\oa_occupation_pelajar_differentaddress4.jpg')
+WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\oa_occupation_pelajar_differentaddress6.jpg')
 

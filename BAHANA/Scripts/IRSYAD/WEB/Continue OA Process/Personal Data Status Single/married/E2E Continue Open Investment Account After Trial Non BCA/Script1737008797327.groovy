@@ -21,7 +21,7 @@ WebUI.openBrowser('')
 
 WebUI.maximizeWindow()
 
-WebUI.navigateToUrl('https://dev-hthbg.bahana.co.id:3030/')
+WebUI.navigateToUrl(GlobalVariable.url)
 
 WebUI.setText(findTestObject('Object Repository/Web/OA/Continue OA Process/Doc Personal Data/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/input_Log In_w-full border rounded-lg px-2 _607240'), 
     GlobalVariable.email)
@@ -41,10 +41,10 @@ Thread.sleep(10000)
 
 WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Doc Personal Data/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/button_Create Account Investment'))
 
+Thread.sleep(1000)
+
 //WebUI.click(findTestObject('Object Repository/Web/open investment account/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/button_Verify'))
 WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\oa_personaldata_married_2.jpg')
-
-Thread.sleep(1000)
 
 WebUI.setText(findTestObject('Object Repository/Web/OA/Continue OA Process/Doc Personal Data/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/input_e-KTP Number_tempat_lahir'), 
     'Bandung')
@@ -72,12 +72,23 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/Web/OA/Continue OA P
 WebUI.setText(findTestObject('Object Repository/Web/OA/Continue OA Process/Doc Personal Data/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/input_Religion_ibu_kandung'), 
     'Regina Yulian Putri')
 
-//WebUI.selectOptionByValue(findTestObject('Object Repository/Web/OA/Continue OA Process/Doc Personal Data/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/select_Marriage StatusmarriedMarriedSeparate'), 
-//    'Marriage Status', true)
-WebUI.selectOptionByValue(findTestObject('Object Repository/Web/OA/Continue OA Process/Doc Personal Data/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/select_Marriage StatusmarriedMarriedSeparate'), 
+WebUI.selectOptionByValue(findTestObject('Object Repository/Web/OA/Continue OA Process/Doc Personal Data/personal data 2025/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/select_Marriage StatusSingleMarriedDivorced'), 
     'married', true)
 
-WebUI.setText(findTestObject('Web/OA/Continue OA Process/Doc Personal Data/spouse name/spouse name'), 'bayu pasangan abadi')
+WebUI.selectOptionByValue(findTestObject('Object Repository/Web/OA/Continue OA Process/Doc Personal Data/personal data 2025/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/select_Marriage StatusSingleMarriedDivorced'), 
+    'separate', true)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Web/OA/Continue OA Process/Doc Personal Data/personal data 2025/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/select_Marriage StatusSingleMarriedDivorced'), 
+    'single', true)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Web/OA/Continue OA Process/Doc Personal Data/personal data 2025/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/select_Marriage StatusSingleMarriedDivorced'), 
+    'married', true)
+
+//WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Doc Personal Data/personal data 2025/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/label_Spouse name'))
+WebUI.setText(findTestObject('Object Repository/Web/OA/Continue OA Process/Doc Personal Data/personal data 2025/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/input_Marriage Status_nama_pasangan'), 
+    'bayu pasangan abadi')
+
+WebUI.scrollToElement(findTestObject('Web/OA/Continue OA Process/personal data/button_Next'), 0)
 
 WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\oa_personaldata_married_3.jpg')
 

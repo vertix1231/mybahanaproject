@@ -21,7 +21,7 @@ WebUI.openBrowser('')
 
 WebUI.maximizeWindow()
 
-WebUI.navigateToUrl('https://dev-hthbg.bahana.co.id:3030/')
+WebUI.navigateToUrl(GlobalVariable.url)
 
 WebUI.setText(findTestObject('Object Repository/Web/OA/Continue OA Process/Occupation n Investment/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/input_Log In_w-full border rounded-lg px-2 _607240'), 
     GlobalVariable.email)
@@ -69,6 +69,9 @@ WebUI.setText(findTestObject('Web/OA/Continue OA Process/Occupation n Investment
 WebUI.sendKeys(findTestObject('Web/OA/Continue OA Process/Occupation n Investment/pekerja/input_totalincome_pekerjaan/input_totalincome_pekerjaan'), 
     Keys.chord(Keys.ENTER))
 
+//WebUI.click(findTestObject('Object Repository/Web/open investment account/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/button_Verify'))
+WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\oa_occupation_pns_differentaddress2.jpg')
+
 WebUI.setText(findTestObject('Object Repository/Web/OA/Continue OA Process/Occupation n Investment/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/input_Occupation_nama_kantor'), 
     'Bahana Education Institution Test')
 
@@ -85,7 +88,7 @@ WebUI.setText(findTestObject('Web/OA/Continue OA Process/Occupation n Investment
     '7')
 
 WebUI.setText(findTestObject('Object Repository/Web/OA/Continue OA Process/Occupation n Investment/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/input_Address of Educational Institution_al_e8f64d'), 
-    'Jakarta')
+    'Jakarta alamat Beneficiary Owner Occupation pns kerja')
 
 WebUI.setText(findTestObject('Object Repository/Web/OA/Continue OA Process/Occupation n Investment/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/input_button search_floating_filledaddress_obj'), 
     '10110')
@@ -95,9 +98,6 @@ WebUI.sendKeys(findTestObject('Object Repository/Web/OA/Continue OA Process/Occu
 
 WebUI.setText(findTestObject('Object Repository/Web/OA/Continue OA Process/Occupation n Investment/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/input_Zip CodeSubdistrictDistrict_no_telp_kantor'), 
     '088273829364')
-
-//WebUI.click(findTestObject('Object Repository/Web/open investment account/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/button_Verify'))
-WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\oa_occupation_pns_differentaddress2.jpg')
 
 //WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Occupation n Investment/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/input_Beneficiary Owner Address_form-radio _54758c'))
 Thread.sleep(5000)

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Marriage StatusSingleMarriedDivorced</name>
+   <tag></tag>
+   <elementGuidId>172414d0-d71d-41e1-8b3f-2b559fe04cb7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;marriage_status&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='marriage_status']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>951c1688-66d3-4ab7-82c4-60d1f070b889</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>marriage_status</value>
+      <webElementGuid>95335cc3-c852-4aae-8ac4-726af5365924</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> block rounded-lg px-2.5 w-full text-sm align-middle bg-gray-25 dark:bg-gray-700 border-2 border-gray-300 appearance-none dark:border-gray-600 dark:focus:border-blue-500 focus:outline-none focus:ring-0 peer pb-4 pt-3.5 disabled:bg-[#EBEBE4] text-[#6b7280]</value>
+      <webElementGuid>d941d363-bb04-4d27-a805-c62d9fc57193</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Marriage StatusSingleMarriedDivorced</value>
+      <webElementGuid>78a48ae1-169c-4649-94b3-e2f6c23a526a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;__className_d65c78 max-h-screen&quot;]/div[@class=&quot;dark:text-zinc-800 flex justify-center items-center&quot;]/div[@class=&quot;w-screen self-start min-h-screen flex flex-col&quot;]/div[@class=&quot;flex-auto grid justify-center items-center bg-[#F6F6F6] dark:bg-bahana-dark pt-3&quot;]/div[@class=&quot;bg-white dark:bg-bahana-dark rounded-lg shadow p-8 w-full min-h-[700px] text-center text-sm min-w-[792px] max-w-[792px]&quot;]/div[@class=&quot;relative relative mb-6 border-gray-300 border-3 rounded-lg relative&quot;]/select[@class=&quot;block rounded-lg px-2.5 w-full text-sm align-middle bg-gray-25 dark:bg-gray-700 border-2 border-gray-300 appearance-none dark:border-gray-600 dark:focus:border-blue-500 focus:outline-none focus:ring-0 peer pb-4 pt-3.5 disabled:bg-[#EBEBE4] text-[#6b7280]&quot;]</value>
+      <webElementGuid>cd9499d1-8ed5-4f24-af3c-0de86e5814d7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='marriage_status']</value>
+      <webElementGuid>ff00f057-b7e0-4f26-b94f-31bbe725a3b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date of Birth'])[1]/following::select[1]</value>
+      <webElementGuid>7f067a35-99ee-415a-b2ab-a79df8081b91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Place of Birth'])[1]/following::select[1]</value>
+      <webElementGuid>0b815f79-24ef-41ca-b4f5-0705f4127172</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Beneficiary Owner Address'])[1]/preceding::select[1]</value>
+      <webElementGuid>a95b6a5d-7ade-49b7-a76d-4825c6db2ffd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='In accordance with my address'])[1]/preceding::select[1]</value>
+      <webElementGuid>a7c96f02-5580-49eb-aa01-4d1a9aa04f52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[13]/select</value>
+      <webElementGuid>c278e469-2291-4184-b92d-20083dac7639</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'marriage_status' and (text() = 'Marriage StatusSingleMarriedDivorced' or . = 'Marriage StatusSingleMarriedDivorced')]</value>
+      <webElementGuid>2cecac9a-598e-466e-99b2-848ba20741d7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

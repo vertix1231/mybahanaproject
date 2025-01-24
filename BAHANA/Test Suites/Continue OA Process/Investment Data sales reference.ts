@@ -22,7 +22,7 @@
       <guid>40c64ccc-4165-412a-8d9f-0fb1c6904ac4</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/IRSYAD/WEB/Continue OA Process/Investment Data sales reference/Continue Open Investment Account After Trial Non BCA</testCaseId>
+      <testCaseId>Test Cases/IRSYAD/WEB/Continue OA Process/Investment Data/sales/Continue Open Investment Account After Trial Non BCA</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

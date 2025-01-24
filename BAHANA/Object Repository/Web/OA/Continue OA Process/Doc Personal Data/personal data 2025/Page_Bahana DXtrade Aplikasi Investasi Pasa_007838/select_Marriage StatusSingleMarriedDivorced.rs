@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Marriage StatusSingleMarriedDivorced</name>
+   <tag></tag>
+   <elementGuidId>9dbc58c3-586a-445b-9c2e-3dbaef793f73</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='sts_perkawinan']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;sts_perkawinan&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>aca15599-ac4b-4693-99c9-8d6338c60a14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>sts_perkawinan</value>
+      <webElementGuid>8857b2f8-d7a9-49f5-b200-dd82dc474109</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> block rounded-lg px-2.5 w-full text-sm align-middle bg-gray-25 dark:bg-gray-700 border-2 border-gray-300 appearance-none dark:border-gray-600 dark:focus:border-blue-500 focus:outline-none focus:ring-0 peer pt-5 pb-2.5 font-semibold disabled:bg-[#EBEBE4] text-gray-900 dark:text-white</value>
+      <webElementGuid>6d1ad5cd-6937-4472-b6a6-40feed1ffd7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Marriage StatusSingleMarriedDivorced</value>
+      <webElementGuid>d99c116e-d8e6-4785-81a8-d27715904f2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;__className_d65c78 max-h-screen&quot;]/div[@class=&quot;dark:text-zinc-800 flex justify-center items-center&quot;]/div[@class=&quot;w-screen self-start min-h-screen flex flex-col&quot;]/div[@class=&quot;flex-auto grid justify-center items-center bg-[#F6F6F6] dark:bg-bahana-dark pt-3&quot;]/div[@class=&quot;bg-white dark:bg-bahana-dark rounded-lg shadow p-8 w-full text-center text-sm min-w-[792px] max-w-[792px]&quot;]/div[@class=&quot;relative relative mb-6 border-gray-300 border-3 rounded-lg relative&quot;]/select[@class=&quot;block rounded-lg px-2.5 w-full text-sm align-middle bg-gray-25 dark:bg-gray-700 border-2 border-gray-300 appearance-none dark:border-gray-600 dark:focus:border-blue-500 focus:outline-none focus:ring-0 peer pt-5 pb-2.5 font-semibold disabled:bg-[#EBEBE4] text-gray-900 dark:text-white&quot;]</value>
+      <webElementGuid>eb2c13a9-bc31-4d78-b06c-16319dd1cd49</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='sts_perkawinan']</value>
+      <webElementGuid>7f64d93d-662e-4584-a091-c2244e58a72f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Birth Mother’s Name'])[1]/following::select[1]</value>
+      <webElementGuid>f0f97199-23f9-443c-9872-1dd1d2d37155</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gender'])[2]/following::select[3]</value>
+      <webElementGuid>31831dc1-bfc3-460f-9679-2a9a79db814f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Marriage Status'])[2]/preceding::select[1]</value>
+      <webElementGuid>8a9569cb-0fe3-455b-8ae5-0c90eaf7d59a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nationality'])[1]/preceding::select[1]</value>
+      <webElementGuid>4920e42b-f13c-4763-aedb-ff488ace0ed8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[12]/select</value>
+      <webElementGuid>ddd2bf7f-c145-4abb-8b0a-f51471dac827</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'sts_perkawinan' and (text() = 'Marriage StatusSingleMarriedDivorced' or . = 'Marriage StatusSingleMarriedDivorced')]</value>
+      <webElementGuid>99fc448f-48c5-4bd7-9fe6-f8e8ddde20ec</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

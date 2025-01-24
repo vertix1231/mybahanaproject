@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_SalesCode</name>
+   <tag></tag>
+   <elementGuidId>da60247b-4a26-43e1-a9c5-aeaf4751e4f4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;sales_code&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='sales_code']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>00eb0463-5e40-4e59-b0f1-84aa53a2039e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>sales_code</value>
+      <webElementGuid>f06327d8-f56e-468b-aef5-c6454f9e211b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> block rounded-lg px-2.5 w-full text-sm align-middle bg-gray-25 dark:bg-gray-700 border-2 border-gray-300 appearance-none dark:border-gray-600 dark:focus:border-blue-500 focus:outline-none focus:ring-0 peer pb-4 pt-3.5 disabled:bg-[#EBEBE4] text-[#6b7280]</value>
+      <webElementGuid>2238435a-1336-4b1b-a8b0-95a7b1d28c4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mention(Sales Name/Code)BAHANA/0128BAHANA/BHN002YOHANNES/107002Uswatun Khasanah/000067BAHANA/BHN001DIRENDRA DICKY/000011FIRMANTO ( REMISER )/000047DIAH DAMAYANTI/001113SITI RAHMAWATI/020511YUWANA WIJAYAWATI/411002GATOT ARGA/000008DIAN PUSPITA/000009MEILADANTY NOURMA/000020BAGUS WIRAWAN/020512ARDY DELFIAN/000042INCA ADITYA/000030MUKHAMAD SOFYAN ARIF/020515RENDYZA RAKHMATULLAH/000058DARMAWAN/000065JAMES EVAN TUMBUAN/000070DIRENDRA DICKY (JAKARTA )/000044WENDY ZHANG/000063ASEP RISNANDAR (REMISER)/000048JHON ERIKSON PURBA/000073YOHANES DE BRITTO AN/020516CHANDRA WAHYUDI (REMISER)/000071SWIDIA ALFI/020517ACHMAD HARIS SETIAWAN	Bahana/020518RIDWAN ACC 2 ( REMISER )/000513BURHIEBANI (GNC)/000015DADAN SYARIFUDIN/000053GATOT EKO NUGRAHANTO (GNC)/000114ANDRY LIANTO/010511FIRMANSYAH ( REMISER )/000055RIANSAR BINI NUGROHO (GNC)/000116MAULIDIA OSVIANA  (GNC)/000115RIDWAN ( REMISER )/000503SUWARDI WIDJAJA/104001DIAH AMINI APRIANTI/000059INACTIVE/000077WIDJOKONGKO/301015LESLY LOTULUNG/000064DIGITAL SALES/000081Pentest/910007TIGRIS BELA KASIH/000080FITRIA DWI ARYANI/000079DANNY RUDIANTO/000082GRACE HARTANTO/000052</value>
+      <webElementGuid>6c820a8c-7aa1-4ac3-bfca-99e501e03892</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;__className_d65c78 max-h-screen&quot;]/div[@class=&quot;dark:text-zinc-800 flex justify-center items-center&quot;]/div[@class=&quot;w-screen self-start min-h-screen flex flex-col&quot;]/div[@class=&quot;flex-auto grid justify-center items-center bg-[#F6F6F6] dark:bg-bahana-dark pt-3&quot;]/div[@class=&quot;bg-white dark:bg-bahana-dark rounded-lg shadow p-8 w-full min-h-[700px] text-center text-sm min-w-[792px] max-w-[792px]&quot;]/div[@class=&quot;relative relative mb-6 border-gray-300 border-3 rounded-lg relative&quot;]/select[@class=&quot;block rounded-lg px-2.5 w-full text-sm align-middle bg-gray-25 dark:bg-gray-700 border-2 border-gray-300 appearance-none dark:border-gray-600 dark:focus:border-blue-500 focus:outline-none focus:ring-0 peer pb-4 pt-3.5 disabled:bg-[#EBEBE4] text-[#6b7280]&quot;]</value>
+      <webElementGuid>32ee8cbb-7c18-4fd4-af18-9b87e4c27502</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='sales_code']</value>
+      <webElementGuid>628e02bf-3be9-409f-a08a-75a9dfaf1250</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sales'])[1]/following::select[1]</value>
+      <webElementGuid>5ddcd7f0-f3f0-42ed-91fa-85b1e0c14416</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Online'])[1]/following::select[1]</value>
+      <webElementGuid>3b5c1549-ce78-4b48-8fe5-e9cf49cac588</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/preceding::select[1]</value>
+      <webElementGuid>9782e810-f17b-4259-9612-f4bc9b1bc2d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::select[1]</value>
+      <webElementGuid>91742026-e3ae-4b48-82e1-d168b9747296</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/select</value>
+      <webElementGuid>291f3d78-9831-49f3-bf79-a3268b6e9dd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'sales_code' and (text() = 'Mention(Sales Name/Code)BAHANA/0128BAHANA/BHN002YOHANNES/107002Uswatun Khasanah/000067BAHANA/BHN001DIRENDRA DICKY/000011FIRMANTO ( REMISER )/000047DIAH DAMAYANTI/001113SITI RAHMAWATI/020511YUWANA WIJAYAWATI/411002GATOT ARGA/000008DIAN PUSPITA/000009MEILADANTY NOURMA/000020BAGUS WIRAWAN/020512ARDY DELFIAN/000042INCA ADITYA/000030MUKHAMAD SOFYAN ARIF/020515RENDYZA RAKHMATULLAH/000058DARMAWAN/000065JAMES EVAN TUMBUAN/000070DIRENDRA DICKY (JAKARTA )/000044WENDY ZHANG/000063ASEP RISNANDAR (REMISER)/000048JHON ERIKSON PURBA/000073YOHANES DE BRITTO AN/020516CHANDRA WAHYUDI (REMISER)/000071SWIDIA ALFI/020517ACHMAD HARIS SETIAWAN	Bahana/020518RIDWAN ACC 2 ( REMISER )/000513BURHIEBANI (GNC)/000015DADAN SYARIFUDIN/000053GATOT EKO NUGRAHANTO (GNC)/000114ANDRY LIANTO/010511FIRMANSYAH ( REMISER )/000055RIANSAR BINI NUGROHO (GNC)/000116MAULIDIA OSVIANA  (GNC)/000115RIDWAN ( REMISER )/000503SUWARDI WIDJAJA/104001DIAH AMINI APRIANTI/000059INACTIVE/000077WIDJOKONGKO/301015LESLY LOTULUNG/000064DIGITAL SALES/000081Pentest/910007TIGRIS BELA KASIH/000080FITRIA DWI ARYANI/000079DANNY RUDIANTO/000082GRACE HARTANTO/000052' or . = 'Mention(Sales Name/Code)BAHANA/0128BAHANA/BHN002YOHANNES/107002Uswatun Khasanah/000067BAHANA/BHN001DIRENDRA DICKY/000011FIRMANTO ( REMISER )/000047DIAH DAMAYANTI/001113SITI RAHMAWATI/020511YUWANA WIJAYAWATI/411002GATOT ARGA/000008DIAN PUSPITA/000009MEILADANTY NOURMA/000020BAGUS WIRAWAN/020512ARDY DELFIAN/000042INCA ADITYA/000030MUKHAMAD SOFYAN ARIF/020515RENDYZA RAKHMATULLAH/000058DARMAWAN/000065JAMES EVAN TUMBUAN/000070DIRENDRA DICKY (JAKARTA )/000044WENDY ZHANG/000063ASEP RISNANDAR (REMISER)/000048JHON ERIKSON PURBA/000073YOHANES DE BRITTO AN/020516CHANDRA WAHYUDI (REMISER)/000071SWIDIA ALFI/020517ACHMAD HARIS SETIAWAN	Bahana/020518RIDWAN ACC 2 ( REMISER )/000513BURHIEBANI (GNC)/000015DADAN SYARIFUDIN/000053GATOT EKO NUGRAHANTO (GNC)/000114ANDRY LIANTO/010511FIRMANSYAH ( REMISER )/000055RIANSAR BINI NUGROHO (GNC)/000116MAULIDIA OSVIANA  (GNC)/000115RIDWAN ( REMISER )/000503SUWARDI WIDJAJA/104001DIAH AMINI APRIANTI/000059INACTIVE/000077WIDJOKONGKO/301015LESLY LOTULUNG/000064DIGITAL SALES/000081Pentest/910007TIGRIS BELA KASIH/000080FITRIA DWI ARYANI/000079DANNY RUDIANTO/000082GRACE HARTANTO/000052')]</value>
+      <webElementGuid>f8edfd8f-d2ae-4bbb-9d1c-4f71fc6c40d3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
