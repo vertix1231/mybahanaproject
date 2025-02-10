@@ -18,11 +18,4 @@
       <testCaseId>Test Cases/IRSYAD/WEB/Login/Remember Login with existing valid account fix</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
-   <testCaseLink>
-      <guid>a8bc43b9-d61e-48e8-8c95-88da8c6a1ce9</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/IRSYAD/WEB/Continue OA Process/Occupation Pelajar Different Address/Continue OA Pelajar different address with Valid Data</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
 </TestSuiteEntity>

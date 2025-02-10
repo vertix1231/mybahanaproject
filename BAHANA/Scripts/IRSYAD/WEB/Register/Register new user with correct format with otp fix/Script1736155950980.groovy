@@ -44,7 +44,11 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/Web/Register/Page
 
 WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\register.jpg')
 
+WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\register1.jpg')
+
 WebUI.click(findTestObject('Object Repository/Web/Register/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/button_Next'))
+
+WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\register2.jpg')
 
 Thread.sleep(60000)
 

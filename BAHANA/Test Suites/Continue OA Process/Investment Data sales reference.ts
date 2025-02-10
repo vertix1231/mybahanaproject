@@ -18,11 +18,4 @@
       <testCaseId>Test Cases/IRSYAD/WEB/Login/Remember Login with existing valid account fix</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
-   <testCaseLink>
-      <guid>40c64ccc-4165-412a-8d9f-0fb1c6904ac4</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/IRSYAD/WEB/Continue OA Process/Investment Data/sales/Continue Open Investment Account After Trial Non BCA</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
 </TestSuiteEntity>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>E2E OA IBURT different address with Valid Data</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>b2efb2c3-9a33-4fa9-a270-7a84eb389f3f</testCaseGuid>
-</TestCaseEntity>

@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <GlobalVariableEntities>
    <description></description>
-   <name>Staging</name>
+   <name>Production</name>
    <tag></tag>
-   <defaultProfile>true</defaultProfile>
+   <defaultProfile>false</defaultProfile>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'dxtest13_staging@yopmail.com'</initValue>
+      <initValue>'DXtestprod1@sharklasers.com'</initValue>
       <name>email</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'dxtest13_staging@yopmail.com'</initValue>
+      <initValue>'DXtestprod1@sharklasers.com'</initValue>
       <name>emailregis</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'https://dxtrade2.bahana.co.id:10000/'</initValue>
+      <initValue>'https://dxtrade.bahana.co.id/'</initValue>
       <name>url</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
