@@ -22,7 +22,7 @@
       <guid>97533444-2128-4efa-ae99-1d989e9bfc86</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/IRSYAD/WEB/Continue OA Process/Doc Personal Data/Continue OA Doc fix</testCaseId>
+      <testCaseId>Test Cases/IRSYAD/WEB/OA Free Trial/OA/Doc Personal Data/Continue OA Doc fix</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

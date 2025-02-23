@@ -22,7 +22,7 @@
       <guid>86899ddb-1345-4cea-915e-a5dff36fcf34</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/IRSYAD/WEB/Continue OA Process/Personal Data Address/same address/Continue OA Personal Data Address fix</testCaseId>
+      <testCaseId>Test Cases/IRSYAD/WEB/OA Free Trial/OA/Personal Data Address/same address/Continue OA Personal Data Address fix</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

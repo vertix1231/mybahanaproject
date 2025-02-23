@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>E2E OA Bank BCA with Valid Data Fail 2 fix</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fe7132c0-a686-4813-9ccc-79c9f4a3116b</testCaseGuid>
+</TestCaseEntity>

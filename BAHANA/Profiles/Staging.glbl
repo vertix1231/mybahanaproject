@@ -6,12 +6,12 @@
    <defaultProfile>true</defaultProfile>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'dxtest13_staging@yopmail.com'</initValue>
+      <initValue>'dxtest19_staging@yopmail.com'</initValue>
       <name>email</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'dxtest13_staging@yopmail.com'</initValue>
+      <initValue>'dxtest19_staging@yopmail.com'</initValue>
       <name>emailregis</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -41,12 +41,12 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'Irsyad Muhammad Andre pelajar'</initValue>
+      <initValue>'FUJI RAHAYU'</initValue>
       <name>bank_owner_name</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'11111111111111111111'</initValue>
+      <initValue>'0751516451'</initValue>
       <name>rek_bank</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>
