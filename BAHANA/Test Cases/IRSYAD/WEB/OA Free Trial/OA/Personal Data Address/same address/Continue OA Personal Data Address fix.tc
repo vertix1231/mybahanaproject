@@ -4,5 +4,6 @@
    <name>Continue OA Personal Data Address fix</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>c46c3d67-6b77-414e-86e5-16a6ab465c2f</testCaseGuid>
 </TestCaseEntity>

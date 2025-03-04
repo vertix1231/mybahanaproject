@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Mention(Sales NameCode)BAHANABHN001B_7bcf83</name>
+   <tag></tag>
+   <elementGuidId>fa73d0ca-9c48-417e-99ed-f4fbce21454d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='sales_code']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;sales_code&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>e9efc718-f789-4c3b-8c71-e10316fb3410</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>sales_code</value>
+      <webElementGuid>8b9554dc-e29f-48ec-8394-dcf750c9fe25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> block rounded-lg px-2.5 w-full text-sm align-middle bg-gray-25 dark:bg-gray-700 border-2 border-gray-300 appearance-none dark:border-gray-600 dark:focus:border-blue-500 focus:outline-none focus:ring-0 peer pb-4 pt-3.5 disabled:bg-[#EBEBE4] bg-white text-[#6b7280]</value>
+      <webElementGuid>cb2f1656-a3f8-4459-8a06-37520748c00f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mention(Sales Name/Code)BAHANA/BHN001BAHANA/BHN002BAHANA/BHN003</value>
+      <webElementGuid>66db1a51-14b8-4ec8-93c1-991ed74c7a53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;__className_d65c78 max-h-screen&quot;]/div[@class=&quot;dark:text-zinc-800 flex justify-center items-center&quot;]/div[@class=&quot;w-screen self-start min-h-screen flex flex-col&quot;]/div[@class=&quot;flex-auto grid justify-center items-center bg-[#F6F6F6] dark:bg-bahana-dark pt-3&quot;]/div[@class=&quot;bg-white dark:bg-bahana-dark rounded-lg shadow p-8 w-full min-h-[700px] text-center text-sm min-w-[792px] max-w-[792px]&quot;]/div[@class=&quot;relative relative mb-6 border-gray-300 border-3 rounded-lg relative&quot;]/select[@class=&quot;block rounded-lg px-2.5 w-full text-sm align-middle bg-gray-25 dark:bg-gray-700 border-2 border-gray-300 appearance-none dark:border-gray-600 dark:focus:border-blue-500 focus:outline-none focus:ring-0 peer pb-4 pt-3.5 disabled:bg-[#EBEBE4] bg-white text-[#6b7280]&quot;]</value>
+      <webElementGuid>83957c70-533d-4185-af84-0af731e0f1fc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='sales_code']</value>
+      <webElementGuid>a927a151-3f95-4255-bc47-31cb19d44241</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sales'])[1]/following::select[1]</value>
+      <webElementGuid>9f096822-10bd-461b-a76f-553a09e7c58f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Online'])[1]/following::select[1]</value>
+      <webElementGuid>a04f5a33-ad0c-4f4f-8b78-5d732cf88021</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/preceding::select[1]</value>
+      <webElementGuid>098154ae-dcda-4f72-83b6-0676fa27d3bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/select</value>
+      <webElementGuid>bf72328a-7510-4d0b-8ec2-419fb23a26e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'sales_code' and (text() = 'Mention(Sales Name/Code)BAHANA/BHN001BAHANA/BHN002BAHANA/BHN003' or . = 'Mention(Sales Name/Code)BAHANA/BHN001BAHANA/BHN002BAHANA/BHN003')]</value>
+      <webElementGuid>594d0dfa-26b1-42fb-a934-c602831ee33f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

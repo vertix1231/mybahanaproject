@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_If yes, please specify (Name - Position_581d70</name>
+   <tag></tag>
+   <elementGuidId>281a5aae-6445-4c79-a37d-bf6a9e99460b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='If yes, please specify (Name - Position - Company).'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>svg.h-4.w-5.relative</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>5168b2a1-5712-4646-9de3-ee837b7b11ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>6df63c8e-e18d-468d-a7a4-d747c73d9e37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 24 24</value>
+      <webElementGuid>8f78c04b-45a7-4738-9d59-7c5aa1375074</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>currentColor</value>
+      <webElementGuid>289d2e2c-9148-42a0-adee-25d6da89c135</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>2cbba4dd-c2b8-44e9-8f68-0e5c43cea1b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke</name>
+      <type>Main</type>
+      <value>4</value>
+      <webElementGuid>47f8a0bd-e378-4a6c-ad84-35a46794e417</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>h-4 w-5 relative</value>
+      <webElementGuid>5e871f81-84f3-47a2-8dca-73f31ec3fe57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;__className_d65c78 max-h-screen&quot;]/div[@class=&quot;dark:text-zinc-800 flex justify-center items-center&quot;]/div[@class=&quot;w-screen self-start min-h-screen flex flex-col&quot;]/div[@class=&quot;flex-auto grid justify-center items-center bg-[#F6F6F6] dark:bg-bahana-dark pt-3&quot;]/div[@class=&quot;text-bahana-gray-txt bg-white dark:bg-bahana-dark rounded-lg shadow p-8 w-full min-h-[700px] text-center text-sm min-w-[792px] max-w-[792px]&quot;]/div[@class=&quot;w-full inline-flex justify-start items-center gap-x-2 mb-4 cursor-pointer&quot;]/div[@class=&quot;h-5 w-5 rounded border text-center text-white bg-bahana-primary&quot;]/div[@class=&quot;gird items-center justify-center&quot;]/svg[@class=&quot;h-4 w-5 relative&quot;]</value>
+      <webElementGuid>60e9c70d-ad9d-4790-acc5-2026568ced90</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='If yes, please specify (Name - Position - Company).'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>e27161b0-d9ed-4d02-8837-8683f7af2087</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[3]/following::*[name()='svg'][1]</value>
+      <webElementGuid>62457cdc-04b6-44a0-9e02-060d4d7bc173</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='I declare that my data is correct and complete.'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>77f648d4-a6f4-4735-a352-eb2bbdd224d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='I certify that I am not a United States taxpayer (FATCA).'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>b7b2114c-4b38-4bb7-92e1-beb87f112bd7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

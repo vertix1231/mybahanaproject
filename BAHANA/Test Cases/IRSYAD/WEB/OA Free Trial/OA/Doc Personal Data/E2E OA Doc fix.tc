@@ -4,5 +4,6 @@
    <name>E2E OA Doc fix</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>2dde9066-23d6-433c-9b8b-8c0ecc36ca68</testCaseGuid>
 </TestCaseEntity>

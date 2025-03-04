@@ -4,5 +4,6 @@
    <name>Continue OA Bank Permata with Valid Data fix</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>7f8eb0be-691b-49b8-b478-0a315154e49d</testCaseGuid>
 </TestCaseEntity>

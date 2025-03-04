@@ -4,5 +4,6 @@
    <name>Register new user with correct format with otp fix</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>51ba8699-1be8-4d27-9900-54b294410d19</testCaseGuid>
 </TestCaseEntity>

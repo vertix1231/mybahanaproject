@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Enough</name>
+   <tag></tag>
+   <elementGuidId>05009f1d-8c6f-4bd7-8828-535468c532b6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Still very limited'])[1]/following::label[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>5920a7e0-18bb-4040-a525-2c55df2ec077</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inline-flex items-center border-2 border border-gray-bd px-4 py-[18px] rounded w-full</value>
+      <webElementGuid>c21b68a0-b11e-4c61-a5b5-915a63c943c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Enough</value>
+      <webElementGuid>f6de2fb4-f94d-4b2b-bb06-94f833cb126d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;__className_d65c78 max-h-screen&quot;]/div[@class=&quot;dark:text-zinc-800 flex justify-center items-center&quot;]/div[@class=&quot;w-screen self-start min-h-screen flex flex-col&quot;]/div[@class=&quot;flex-auto grid justify-center items-center bg-[#F6F6F6] dark:bg-bahana-dark pt-3&quot;]/div[@class=&quot;bg-white dark:bg-bahana-dark rounded-lg shadow p-8 w-full min-h-[700px] text-center text-sm min-w-[792px] max-w-[792px]&quot;]/div[@class=&quot;grid mb-6 text-start&quot;]/div[1]/label[@class=&quot;inline-flex items-center border-2 border border-gray-bd px-4 py-[18px] rounded w-full&quot;]</value>
+      <webElementGuid>5749888f-44aa-4d72-8b3c-bd72f8ec61d1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Still very limited'])[1]/following::label[1]</value>
+      <webElementGuid>c4514b04-912e-42ef-9b26-c05a1cedd318</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Experienced'])[1]/preceding::label[1]</value>
+      <webElementGuid>f6e9dc00-22c5-4493-ba2a-4a6a1628ec72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[30]/div/label</value>
+      <webElementGuid>226468b1-b9d0-441b-9403-fcb08a38abc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Enough' or . = 'Enough')]</value>
+      <webElementGuid>228a3c89-6c39-412b-8b99-f7425dee073c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

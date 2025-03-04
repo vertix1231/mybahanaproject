@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_What are your goals for investing_for_801089</name>
+   <tag></tag>
+   <elementGuidId>52b478ee-755c-4093-a48a-d8f2b212b07f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='25']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.form-radio.text-bahana-sky.h-5.w-5</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>b0f658e4-c242-4d0d-8976-1bdcd1207f45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-radio text-bahana-sky h-5 w-5</value>
+      <webElementGuid>fb190141-8250-42e5-85b3-48a9feef8340</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>radio</value>
+      <webElementGuid>3282a407-0a02-4b11-9508-6cc806a99fac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>25</value>
+      <webElementGuid>7eb60a20-bfbb-48c4-b5ad-dc47021e797a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;__className_d65c78 max-h-screen&quot;]/div[@class=&quot;dark:text-zinc-800 flex justify-center items-center&quot;]/div[@class=&quot;w-screen self-start min-h-screen flex flex-col&quot;]/div[@class=&quot;flex-auto grid justify-center items-center bg-[#F6F6F6] dark:bg-bahana-dark pt-3&quot;]/div[@class=&quot;bg-white dark:bg-bahana-dark rounded-lg shadow p-8 w-full min-h-[700px] text-center text-sm min-w-[792px] max-w-[792px]&quot;]/div[@class=&quot;grid mb-6 text-start&quot;]/div[1]/label[@class=&quot;inline-flex items-center border-2 border border-gray-bd px-4 py-[18px] rounded w-full&quot;]/input[@class=&quot;form-radio text-bahana-sky h-5 w-5&quot;]</value>
+      <webElementGuid>d110c793-956f-4e20-9a97-3090a4d384a7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='25']</value>
+      <webElementGuid>65713c3e-1577-4b7f-9b4e-c7ae3afd13d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>7c6fc082-fc4c-4658-b01c-b6937f59c621</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'radio']</value>
+      <webElementGuid>c703b669-e782-44ac-8a54-58bb3c1e752c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -35,15 +35,15 @@ WebUI.click(findTestObject('Web/Login/Page_Bahana DXtrade Aplikasi Investasi Pas
 
 Thread.sleep(1000)
 
-WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\oa_investment_sales_trPreference1.jpg')
+WebUI.takeScreenshot(('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\' + GlobalVariable.email) + '\\oa_investment_sales_trPreference1.jpg')
 
-Thread.sleep(10000)
+Thread.sleep(5000)
 
 WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Occupation n Investment/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/button_Create Account Investment'))
 
 Thread.sleep(10000)
 
-WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\oa_investment_sales_trPreference2.jpg')
+WebUI.takeScreenshot(('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\' + GlobalVariable.email) + '\\oa_investment_sales_trPreference2.jpg')
 
 Thread.sleep(1000)
 
@@ -59,23 +59,23 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/Web/OA/Continue OA P
 WebUI.selectOptionByValue(findTestObject('Object Repository/Web/OA/Continue OA Process/Occupation n Investment/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/select_Estimated Numbers of Charging Deposi_7abe6b'), 
     '1', true)
 
-WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\oa_investment_sales_trPreference3.jpg')
+WebUI.takeScreenshot(('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\' + GlobalVariable.email) + '\\oa_investment_sales_trPreference3.jpg')
 
 WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Occupation n Investment/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/label_Online'))
 
 WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Occupation n Investment/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/label_Sales'))
 
-//WebUI.selectOptionByValue(findTestObject('Object Repository/Web/OA/Continue OA Process/Occupation n Investment/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/select_Estimated Numbers of Charging Deposi_7abe6b'), 
-//    'BAHANA/BHN001', true)
-WebUI.selectOptionByValue(findTestObject('Web/OA/Continue OA Process/Occupation n Investment/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/select_salescode'), 
-    '020515', true)
+WebUI.selectOptionByValue(findTestObject('Web/OA/Continue OA Process/investment/invest_objmar2025/select_Mentionmar2025'), 
+    'BHN002', true)
 
+//WebUI.selectOptionByValue(findTestObject('Web/OA/Continue OA Process/Occupation n Investment/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/select_salescode'), 
+//    '020515', true)
 WebUI.scrollToElement(findTestObject('Web/OA/Continue OA Process/Occupation n Investment/btn baru 31 dec 2024-2/button_Next'), 
     5)
 
-WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\oa_investment_sales_trPreference4.jpg')
+WebUI.takeScreenshot(('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\' + GlobalVariable.email) + '\\oa_investment_sales_trPreference4.jpg')
 
 WebUI.click(findTestObject('Web/OA/Continue OA Process/Occupation n Investment/btn baru 31 dec 2024-2/button_Next'))
 
-WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\oa_investment_sales_trPreference5.jpg')
+WebUI.takeScreenshot(('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\' + GlobalVariable.email) + '\\oa_investment_sales_trPreference5.jpg')
 

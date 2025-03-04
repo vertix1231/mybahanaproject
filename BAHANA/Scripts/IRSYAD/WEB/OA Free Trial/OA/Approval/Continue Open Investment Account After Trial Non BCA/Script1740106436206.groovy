@@ -28,62 +28,62 @@ Thread.sleep(1000)
 
 WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\continueoa_approval1.jpg')
 
-WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Approval n Risk Profile/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/canvas_Reset_w-full h-200px'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Approval n Risk Profile/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/label_Yes'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Approval n Risk Profile/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/label_No'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Approval n Risk Profile/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/input_Yes_form-radio text-bahana-sky h-5 w-5'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Approval n Risk Profile/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/label_Yes'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Approval n Risk Profile/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/label_No'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Approval n Risk Profile/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/label_No'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Approval n Risk Profile/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/label_Yes'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Approval n Risk Profile/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/label_No'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Approval n Risk Profile/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/label_Yes'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Approval n Risk Profile/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/label_No'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Approval n Risk Profile/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/label_Yes'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Approval n Risk Profile/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/label_No'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Approval n Risk Profile/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/label_Yes'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Approval n Risk Profile/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/span_No'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Approval n Risk Profile/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/label_Yes'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Approval n Risk Profile/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/label_If yes, please specify (Name - Positi_123ed5'))
+WebUI.click(findTestObject('null'))
 
-WebUI.setText(findTestObject('Object Repository/Web/OA/Continue OA Process/Approval n Risk Profile/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/input_No_presentasi'), 
+WebUI.setText(findTestObject('null'), 
     'irsyad-manager-bahana company')
 
-WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Approval n Risk Profile/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/div_'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Approval n Risk Profile/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/div_'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Approval n Risk Profile/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/div_'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Approval n Risk Profile/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/input_Loading PDF_is_checked_approvel'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Approval n Risk Profile/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/button_Next'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Approval n Risk Profile/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/div_'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Approval n Risk Profile/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/input_Loading PDF_is_checked_approvel'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Approval n Risk Profile/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/button_Next'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Approval n Risk Profile/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/label_No'))
+WebUI.click(findTestObject('null'))
 
 WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\continueoa_approval2.jpg')
 
-WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Approval n Risk Profile/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/button_Next'))
+WebUI.click(findTestObject('null'))
 

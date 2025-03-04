@@ -34,7 +34,7 @@ WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Doc Per
 
 Thread.sleep(1000)
 
-WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\oa_personaldataaddress1.jpg')
+WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\'+GlobalVariable.email+'\\oa_personaldataaddress1.jpg')
 
 Thread.sleep(10000)
 
@@ -43,7 +43,7 @@ WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Doc Per
 Thread.sleep(10000)
 
 //WebUI.click(findTestObject('Object Repository/Web/open investment account/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/button_Verify'))
-WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\oa_personaldataaddress2.jpg')
+WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\'+GlobalVariable.email+'\\oa_personaldataaddress2.jpg')
 
 Thread.sleep(1000)
 
@@ -64,11 +64,11 @@ WebUI.setText(findTestObject('Object Repository/Web/OA/Continue OA Process/Doc P
 
 WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Doc Personal Data/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/label_Same with e-KTP'))
 
-WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\oa_personaldataaddress3.jpg')
+WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\'+GlobalVariable.email+'\\oa_personaldataaddress3.jpg')
 
 WebUI.click(findTestObject('Web/OA/Continue OA Process/Doc Personal Data/Page_Bahana DXtrade Aplikasi Investasi Pasar Modal Multi Asset resmi dari Bahana Sekuritas/button_Save  Next'))
 
 Thread.sleep(10000)
 
-WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\oa_personaldataaddress4.jpg')
+WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\'+GlobalVariable.email+'\\oa_personaldataaddress4.jpg')
 

@@ -4,5 +4,6 @@
    <name>E2E OA Personal Data Status Relationship fix</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>16e4c3e3-14ce-4705-844b-1e0d18c55f4b</testCaseGuid>
 </TestCaseEntity>

@@ -35,25 +35,24 @@ WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Page_Ba
 
 Thread.sleep(1000)
 
-WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\oa_docupload0.jpg')
+WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\'+GlobalVariable.email+'\\oa_docupload0.jpg')
 
 Thread.sleep(10000)
 
 WebUI.click(findTestObject('Object Repository/Web/OA/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/button_Create Account Investment'))
 
+Thread.sleep(15000)
+
+WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\'+GlobalVariable.email+'\\oa_docupload1.jpg')
+
+Thread.sleep(30000)
+
+WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\'+GlobalVariable.email+'\\oa_docupload2.jpg')
+
+Thread.sleep(40000)
+
+WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\'+GlobalVariable.email+'\\oa_docupload3.jpg')
 
 Thread.sleep(10000)
 
-WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\oa_docupload1.jpg')
-
-Thread.sleep(120000)
-
-WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\oa_docupload2.jpg')
-
-Thread.sleep(120000)
-
-WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\oa_docupload3.jpg')
-
-Thread.sleep(60000)
-
-WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\oa_docupload4.jpg')
+WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\'+GlobalVariable.email+'\\oa_docupload4.jpg')

@@ -4,5 +4,6 @@
    <name>E2E OA Bank Cimb Niaga with Valid Data fix</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>8dc38e67-43ba-418a-8913-92d1a03a0135</testCaseGuid>
 </TestCaseEntity>

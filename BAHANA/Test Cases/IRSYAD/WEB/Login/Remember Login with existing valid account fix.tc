@@ -4,5 +4,6 @@
    <name>Remember Login with existing valid account fix</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>dbaa3ed1-7eb3-436d-8a5b-fd270cbc5e77</testCaseGuid>
 </TestCaseEntity>

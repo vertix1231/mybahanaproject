@@ -4,5 +4,6 @@
    <name>E2E OA Occupation Pelajar different address with Valid Data fix</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>143792b8-d32c-4752-b8bc-eea846bdd840</testCaseGuid>
 </TestCaseEntity>

@@ -4,5 +4,6 @@
    <name>E2E OA Bank Permata with Valid Data fix</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>da8a74e4-33a5-4853-ba9d-6487204c0bde</testCaseGuid>
 </TestCaseEntity>

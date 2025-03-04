@@ -4,5 +4,6 @@
    <name>E2E OA Investment Data by Sales</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>eb9edd13-433b-4762-9dd5-2322cb98aa65</testCaseGuid>
 </TestCaseEntity>

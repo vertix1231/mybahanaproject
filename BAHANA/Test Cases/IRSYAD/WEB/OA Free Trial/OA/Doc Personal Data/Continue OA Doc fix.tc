@@ -4,5 +4,6 @@
    <name>Continue OA Doc fix</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>36a9105b-b003-432f-94d7-d8729a308947</testCaseGuid>
 </TestCaseEntity>

@@ -35,7 +35,7 @@ WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Doc Per
 
 Thread.sleep(1000)
 
-WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\oa_occupation_iburt_differentaddress1.jpg')
+WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\'+GlobalVariable.email+'\\oa_occupation_iburt_differentaddress1.jpg')
 
 Thread.sleep(10000)
 
@@ -80,7 +80,7 @@ WebUI.setText(findTestObject('Object Repository/Web/OA/Continue OA Process/Doc P
     'emailiburt_beneficiary_owner@email.com')
 
 //WebUI.click(findTestObject('Object Repository/Web/open investment account/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/button_Verify'))
-WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\oa_occupation_iburt_differentaddress2.jpg')
+WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\'+GlobalVariable.email+'\\oa_occupation_iburt_differentaddress2.jpg')
 
 WebUI.setText(findTestObject('Object Repository/Web/OA/Continue OA Process/Doc Personal Data/occupation 2025/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/input_Email_handphone'), 
     '0887129393763')
@@ -117,7 +117,7 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/Web/OA/Continue OA P
 WebUI.selectOptionByValue(findTestObject('Object Repository/Web/OA/Continue OA Process/Doc Personal Data/occupation 2025/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/select_Marriage StatusSingleMarriedDivorced'), 
     'Separate', true)
 
-WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\oa_occupation_iburt_differentaddress3.jpg')
+WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\'+GlobalVariable.email+'\\oa_occupation_iburt_differentaddress3.jpg')
 
 WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Doc Personal Data/occupation 2025/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/label_In accordance with my address'))
 
@@ -141,9 +141,9 @@ WebUI.scrollToElement(findTestObject('Web/OA/Continue OA Process/Occupation n In
 
 WebUI.verifyElementClickable(findTestObject('Web/OA/Continue OA Process/Occupation n Investment/btn baru 31 dec 2024-2/button_Next'))
 
-WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\oa_occupation_iburt_differentaddress4.jpg')
+WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\'+GlobalVariable.email+'\\oa_occupation_iburt_differentaddress4.jpg')
 
 WebUI.click(findTestObject('Web/OA/Continue OA Process/Occupation n Investment/btn baru 31 dec 2024-2/button_Next'))
 
-WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\oa_occupation_iburt_differentaddress5.jpg')
+WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\'+GlobalVariable.email+'\\oa_occupation_iburt_differentaddress5.jpg')
 

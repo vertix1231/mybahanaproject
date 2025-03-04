@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Next</name>
+   <tag></tag>
+   <elementGuidId>056d6aee-d2d1-47c1-9a6f-f9cb33d81cee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Aggressive'])[1]/following::button[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4b6b6b15-0126-4a5e-b42a-6929d1519a14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mt-6 w-full text-center py-[10px] rounded-lg text-white font-bold text-xs bg-bahana-primary disabled:opacity-50</value>
+      <webElementGuid>4a76b237-f7c3-4ab7-b181-fdb13a4e8e6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Next</value>
+      <webElementGuid>fc934131-49b6-4b3a-ae0b-e02258700e16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;__className_d65c78 max-h-screen&quot;]/div[@class=&quot;dark:text-zinc-800 flex justify-center items-center&quot;]/div[@class=&quot;w-screen self-start min-h-screen flex flex-col&quot;]/div[@class=&quot;flex-auto grid justify-center items-center bg-[#F6F6F6] dark:bg-bahana-dark pt-3&quot;]/div[@class=&quot;text-bahana-gray-txt bg-white dark:bg-bahana-dark rounded-lg shadow p-8 w-full text-center text-sm max-w-[416px]&quot;]/button[@class=&quot;mt-6 w-full text-center py-[10px] rounded-lg text-white font-bold text-xs bg-bahana-primary disabled:opacity-50&quot;]</value>
+      <webElementGuid>42559579-59d0-4aa6-8f02-2320f6eac736</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aggressive'])[1]/following::button[1]</value>
+      <webElementGuid>5e0d1a52-a368-47e2-a0ff-0fc27dc39ec5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Moderate'])[1]/following::button[1]</value>
+      <webElementGuid>c3650fdf-a0ef-4794-9fa5-4b51c1c61bfb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Next']/parent::*</value>
+      <webElementGuid>52b0eb47-f46d-452b-be96-25b8021dedcf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/button</value>
+      <webElementGuid>066fc1ad-570a-4275-8833-5a65f5f539c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Next' or . = 'Next')]</value>
+      <webElementGuid>17aac879-5c7e-4e72-905e-12d03c7236eb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

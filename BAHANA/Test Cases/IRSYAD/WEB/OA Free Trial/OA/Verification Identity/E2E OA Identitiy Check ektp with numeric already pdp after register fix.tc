@@ -4,5 +4,6 @@
    <name>E2E OA Identitiy Check ektp with numeric already pdp after register fix</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>c4a6a599-8c06-43e5-ad1a-cdee86322642</testCaseGuid>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>64f49e77-96c8-4a6f-9d30-8fdc6d4dc980</testCaseGuid>
 </TestCaseEntity>

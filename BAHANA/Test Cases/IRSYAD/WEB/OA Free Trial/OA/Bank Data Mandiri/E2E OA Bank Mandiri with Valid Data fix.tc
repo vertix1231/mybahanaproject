@@ -4,5 +4,6 @@
    <name>E2E OA Bank Mandiri with Valid Data fix</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>19a00558-f4d2-4a60-ad3b-24dcc69b5faf</testCaseGuid>
 </TestCaseEntity>

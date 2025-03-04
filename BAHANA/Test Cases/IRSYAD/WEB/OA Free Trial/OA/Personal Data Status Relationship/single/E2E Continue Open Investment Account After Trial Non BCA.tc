@@ -4,5 +4,6 @@
    <name>E2E Continue Open Investment Account After Trial Non BCA</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>4a036fc8-3471-40e1-8ef9-652942731d9d</testCaseGuid>
 </TestCaseEntity>

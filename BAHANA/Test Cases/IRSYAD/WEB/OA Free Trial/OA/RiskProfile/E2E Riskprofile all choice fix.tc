@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>E2E Riskprofile all choice fix</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>472f3cc5-1fbe-42fa-a832-a44de0a40466</testCaseGuid>
+</TestCaseEntity>

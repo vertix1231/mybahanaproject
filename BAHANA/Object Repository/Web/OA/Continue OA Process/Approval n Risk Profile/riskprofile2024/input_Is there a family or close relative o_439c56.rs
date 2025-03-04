@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Is there a family or close relative o_439c56</name>
+   <tag></tag>
+   <elementGuidId>9851a4fe-29e3-42db-bd79-3e96be04dfb6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='true']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.form-radio.text-bahana-sky.h-5.w-5</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>f949c3d5-f882-467b-b898-c549fdc97ef6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-radio text-bahana-sky h-5 w-5</value>
+      <webElementGuid>d76ee4b6-7366-4068-a03c-633d3a740678</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>radio</value>
+      <webElementGuid>6135cd1f-e9bc-43d8-ae95-99a93af2f6f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>716a507c-dd32-4967-84c5-2af7f38b675e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;__className_d65c78 max-h-screen&quot;]/div[@class=&quot;dark:text-zinc-800 flex justify-center items-center&quot;]/div[@class=&quot;w-screen self-start min-h-screen flex flex-col&quot;]/div[@class=&quot;flex-auto grid justify-center items-center bg-[#F6F6F6] dark:bg-bahana-dark pt-3&quot;]/div[@class=&quot;text-bahana-gray-txt bg-white dark:bg-bahana-dark rounded-lg shadow p-8 w-full min-h-[700px] text-center text-sm min-w-[792px] max-w-[792px]&quot;]/div[@class=&quot;flex-col gap-y-2 my-4 text-start&quot;]/div[@class=&quot;grid grid-cols-2 gap-x-2.5 text-[#0D0F12]&quot;]/div[1]/label[@class=&quot;inline-flex items-center border-2 border border-gray-bd px-4 py-[18px] rounded w-full&quot;]/input[@class=&quot;form-radio text-bahana-sky h-5 w-5&quot;]</value>
+      <webElementGuid>1046cca4-78bf-4e09-8263-65645ef3b66a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='true']</value>
+      <webElementGuid>9dd96e7d-8256-485e-a267-8814983337d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>07b2f85a-c1f9-4ac8-80e5-83dde594304c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'radio']</value>
+      <webElementGuid>7f8f0de4-0f9c-497a-b898-37b9b66aee71</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

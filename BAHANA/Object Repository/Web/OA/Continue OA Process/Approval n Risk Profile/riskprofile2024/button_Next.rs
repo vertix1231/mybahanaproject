@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Next</name>
+   <tag></tag>
+   <elementGuidId>6c0deace-1d80-46da-bcdb-5033010a86c9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='I have read, understand and agree to the terms and conditions.'])[1]/following::button[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d7316651-8c74-4fcd-aa4d-da01f6baa963</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>py-4 px-20 bg-bahana-primary text-white rounded-lg text-xs font-semibold disabled:opacity-50 disabled:cursor-not-allowed</value>
+      <webElementGuid>bbc21eb5-a7ae-4617-ab44-d464d3831ece</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Next</value>
+      <webElementGuid>2c078215-57c7-421c-a716-3a48251e372e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;__className_d65c78 max-h-screen&quot;]/div[@class=&quot;dark:text-zinc-800 flex justify-center items-center&quot;]/div[@class=&quot;w-screen self-start min-h-screen flex flex-col&quot;]/div[@class=&quot;fixed top-0 left-0 right-0 z-[55] w-full p-4 overflow-x-hidden overflow-y-auto md:inset-0 h-[calc(100%-1rem)] max-h-full  backdrop-blur-[3px] bg-black bg-opacity-60
+            flex justify-center items-center  min-h-screen text-xs transform transition-all duration-700 ease-in-out&quot;]/div[@class=&quot;relative w-full max-h-full max-w-2xl&quot;]/div[@class=&quot;relative bg-white rounded-lg shadow dark:bg-bahana-dark&quot;]/div[@class=&quot;overflow-y-auto p-4&quot;]/div[@class=&quot;flex justify-center w-full pt-5&quot;]/div[@class=&quot;relative&quot;]/button[@class=&quot;py-4 px-20 bg-bahana-primary text-white rounded-lg text-xs font-semibold disabled:opacity-50 disabled:cursor-not-allowed&quot;]</value>
+      <webElementGuid>8ca66bac-5db8-4c21-aed4-2c2758fa953d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='I have read, understand and agree to the terms and conditions.'])[1]/following::button[1]</value>
+      <webElementGuid>a5673e2c-b996-46b7-9360-7fe8578c22f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Persetujuan Pembukaan Rekening Dana Nasabah (RDN)'])[1]/following::button[1]</value>
+      <webElementGuid>58c6c7b9-9d67-4468-bb2e-7bfb53da0013</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IHSG'])[1]/preceding::button[1]</value>
+      <webElementGuid>bda3178b-64a7-434c-bf85-a5be1dd96f16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IDXNONCYC'])[1]/preceding::button[1]</value>
+      <webElementGuid>e02fae70-2f66-4447-b0cf-d2d98351b52c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Next']/parent::*</value>
+      <webElementGuid>c2dd9f31-ac47-4ffb-9963-08491b0580da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>ddd8ccf8-22fe-4d9a-a7fc-9f11d47f2d3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Next' or . = 'Next')]</value>
+      <webElementGuid>23744137-f37a-4a2c-96a2-7a623de33c14</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

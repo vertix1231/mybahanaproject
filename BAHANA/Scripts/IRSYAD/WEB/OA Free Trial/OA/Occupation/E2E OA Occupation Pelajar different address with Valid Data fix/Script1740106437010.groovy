@@ -35,7 +35,7 @@ WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Doc Per
 
 Thread.sleep(1000)
 
-WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\oa_occupation_pelajar_differentaddress1.jpg')
+WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\'+GlobalVariable.email+'\\oa_occupation_pelajar_differentaddress1.jpg')
 
 Thread.sleep(10000)
 
@@ -67,7 +67,7 @@ WebUI.setText(findTestObject('Object Repository/Web/OA/Continue OA Process/Occup
     '088273829364')
 
 //WebUI.click(findTestObject('Object Repository/Web/open investment account/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/button_Verify'))
-WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\oa_occupation_pelajar_differentaddress2.jpg')
+WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\'+GlobalVariable.email+'\\oa_occupation_pelajar_differentaddress2.jpg')
 
 WebUI.setText(findTestObject('Object Repository/Web/OA/Continue OA Process/Occupation n Investment/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/input_Beneficiary Owner Information_name_bo'), 
     'beneficiary owner pelajar nama')
@@ -80,7 +80,7 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/Web/OA/Continue OA P
 WebUI.setText(findTestObject('Object Repository/Web/OA/Continue OA Process/Occupation n Investment/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/input_Relation_ektp_number'), 
     '1111111111111111')
 
-WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\oa_occupation_pelajar_differentaddress3.jpg')
+WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\'+GlobalVariable.email+'\\oa_occupation_pelajar_differentaddress3.jpg')
 
 WebUI.setText(findTestObject('Object Repository/Web/OA/Continue OA Process/Occupation n Investment/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/input_e-KTP Number_email'), 
     'andre@gmail.com')
@@ -91,7 +91,7 @@ WebUI.setText(findTestObject('Object Repository/Web/OA/Continue OA Process/Occup
 WebUI.setText(findTestObject('Object Repository/Web/OA/Continue OA Process/Occupation n Investment/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/input_No. Handphone_pob'), 
     'Riau')
 
-WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\oa_occupation_pelajar_differentaddress4.jpg')
+WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\'+GlobalVariable.email+'\\oa_occupation_pelajar_differentaddress4.jpg')
 
 WebUI.setText(findTestObject('Object Repository/Web/OA/Continue OA Process/Occupation n Investment/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/input_Place of Birth_floating_filleddob_1'), 
     '13-07-1969')
@@ -125,9 +125,9 @@ WebUI.scrollToElement(findTestObject('Web/OA/Continue OA Process/Occupation n In
 
 WebUI.verifyElementClickable(findTestObject('Web/OA/Continue OA Process/Occupation n Investment/btn baru 31 dec 2024-2/button_Next'))
 
-WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\oa_occupation_pelajar_differentaddress5.jpg')
+WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\'+GlobalVariable.email+'\\oa_occupation_pelajar_differentaddress5.jpg')
 
 WebUI.click(findTestObject('Web/OA/Continue OA Process/Occupation n Investment/btn baru 31 dec 2024-2/button_Next'))
 
-WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\oa_occupation_pelajar_differentaddress6.jpg')
+WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\'+GlobalVariable.email+'\\oa_occupation_pelajar_differentaddress6.jpg')
 

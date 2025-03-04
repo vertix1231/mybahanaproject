@@ -35,7 +35,7 @@ WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Doc Per
 
 Thread.sleep(1000)
 
-WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\oa_beneficiary_owner_for_pekerjaPNS_1.jpg')
+WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\'+GlobalVariable.email+'\\oa_beneficiary_owner_for_pekerjaPNS_1.jpg')
 
 Thread.sleep(10000)
 
@@ -43,7 +43,7 @@ WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Occupat
 
 Thread.sleep(1000)
 
-WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\oa_beneficiary_owner_for_pekerjaPNS_1-1.jpg')
+WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\'+GlobalVariable.email+'\\oa_beneficiary_owner_for_pekerjaPNS_1-1.jpg')
 
 WebUI.setText(findTestObject('Object Repository/Web/OA/Continue OA Process/Occupation n Investment/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/input_button search_floating_filleddata_pek_568512'), 
     'pegawai negeri')
@@ -73,7 +73,7 @@ WebUI.setText(findTestObject('Object Repository/Web/OA/Continue OA Process/Occup
     'Bahana Company Institution Test')
 
 //WebUI.click(findTestObject('Object Repository/Web/open investment account/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/button_Verify'))
-WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\oa_beneficiary_owner_for_pekerjaPNS_2.jpg')
+WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\'+GlobalVariable.email+'\\oa_beneficiary_owner_for_pekerjaPNS_2.jpg')
 
 WebUI.setText(findTestObject('Object Repository/Web/OA/Continue OA Process/Occupation n Investment/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/input_button search_floating_filledfield_of_384513'), 
     'usaha kehutanan lainnya')
@@ -99,9 +99,9 @@ WebUI.sendKeys(findTestObject('Object Repository/Web/OA/Continue OA Process/Occu
 WebUI.setText(findTestObject('Object Repository/Web/OA/Continue OA Process/Occupation n Investment/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/input_Zip CodeSubdistrictDistrict_phone_number'), 
     '0882739101293')
 
-WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\oa_beneficiary_owner_for_pekerjaPNS_3.jpg')
+WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\'+GlobalVariable.email+'\\oa_beneficiary_owner_for_pekerjaPNS_3.jpg')
 
 WebUI.click(findTestObject('Web/OA/Continue OA Process/beneficiary owner next btn/button_Next'))
 
-WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\oa_beneficiary_owner_for_pekerjaPNS_4.jpg')
+WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\'+GlobalVariable.email+'\\oa_beneficiary_owner_for_pekerjaPNS_4.jpg')
 

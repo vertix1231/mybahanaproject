@@ -4,5 +4,6 @@
    <name>Continue OA Identitiy Check ektp with numeric already pdp after register fix</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>e74cbfa0-7322-4c95-9ac2-bfa9cc59d076</testCaseGuid>
 </TestCaseEntity>

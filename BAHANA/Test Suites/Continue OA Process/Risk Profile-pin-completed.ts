@@ -22,7 +22,7 @@
       <guid>8235000e-9093-40af-8d5d-7a0709723c34</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/IRSYAD/WEB/OA Free Trial/OA/Risk Profile-pin-completed/Continue Open Investment Account After Trial Non BCA</testCaseId>
+      <testCaseId>Test Cases/IRSYAD/WEB/OA Free Trial/OA/RiskProfile/Continue E2E Riskprofile all choice fix</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

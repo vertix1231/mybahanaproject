@@ -4,5 +4,6 @@
    <name>Continue OA Occupation PNS different address with Valid Data fix</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>3d2353f3-4e62-45b3-835f-393af9d16f73</testCaseGuid>
 </TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>E2E OA Occupation PNS Esselon345 different address with Valid Data fix</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>862bc8a6-d44b-474d-baeb-a4302f2b21df</testCaseGuid>
+</TestCaseEntity>

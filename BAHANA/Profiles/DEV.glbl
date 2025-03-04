@@ -3,15 +3,15 @@
    <description></description>
    <name>DEV</name>
    <tag></tag>
-   <defaultProfile>false</defaultProfile>
+   <defaultProfile>true</defaultProfile>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'dxtest595@yopmail.com'</initValue>
+      <initValue>'dxtest604@yopmail.com'</initValue>
       <name>email</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'dxtest595@yopmail.com'</initValue>
+      <initValue>'dxtest604@yopmail.com'</initValue>
       <name>emailregis</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -36,7 +36,7 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'Irsyad Muhammad Andre pelajar'</initValue>
+      <initValue>'Irsyad Muhammad Andre dev'</initValue>
       <name>name_ektp</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>

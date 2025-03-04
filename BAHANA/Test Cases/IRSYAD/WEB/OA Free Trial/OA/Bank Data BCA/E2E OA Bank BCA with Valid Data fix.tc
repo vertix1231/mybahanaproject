@@ -4,5 +4,6 @@
    <name>E2E OA Bank BCA with Valid Data fix</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>1ccf5d30-0880-4952-9c75-ba2127902304</testCaseGuid>
 </TestCaseEntity>

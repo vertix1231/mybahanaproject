@@ -4,5 +4,6 @@
    <name>E2E OA Occupation IBURT different address with Valid Data fix</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>b2efb2c3-9a33-4fa9-a270-7a84eb389f3f</testCaseGuid>
 </TestCaseEntity>

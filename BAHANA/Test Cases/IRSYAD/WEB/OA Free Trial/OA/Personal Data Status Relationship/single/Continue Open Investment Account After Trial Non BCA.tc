@@ -4,5 +4,6 @@
    <name>Continue Open Investment Account After Trial Non BCA</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>6d0f2aeb-6bf0-412b-ae4d-e60cd8125729</testCaseGuid>
 </TestCaseEntity>
