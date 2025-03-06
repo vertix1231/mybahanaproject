@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>E2E OA Bank BCA with Valid Data</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>425a01f0-3ab9-40bb-bb89-cec74fd96397</testCaseGuid>
-</TestCaseEntity>

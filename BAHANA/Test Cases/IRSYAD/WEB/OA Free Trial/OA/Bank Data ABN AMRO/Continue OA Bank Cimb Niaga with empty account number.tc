@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Continue OA Bank Cimb Niaga with empty account number</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>02c2acc1-24d9-4768-82c6-08aa15fe9019</testCaseGuid>
+</TestCaseEntity>

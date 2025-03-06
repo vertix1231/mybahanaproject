@@ -4,5 +4,6 @@
    <name>Continue OA Investment Data by Sales</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>1ec62a12-8f5f-4808-8e62-9ec7b04e4b0d</testCaseGuid>
 </TestCaseEntity>

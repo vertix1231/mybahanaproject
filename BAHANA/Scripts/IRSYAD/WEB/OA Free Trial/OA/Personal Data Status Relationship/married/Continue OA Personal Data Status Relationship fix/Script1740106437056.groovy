@@ -22,47 +22,47 @@ Thread.sleep(1000)
 //WebUI.click(findTestObject('Object Repository/Web/open investment account/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/button_Verify'))
 WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\'+GlobalVariable.email+'\\oa_personaldata_married_2.jpg')
 
-WebUI.setText(findTestObject('Object Repository/Web/OA/Continue OA Process/Doc Personal Data/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/input_e-KTP Number_tempat_lahir'), 
-    'Bandung')
+WebUI.setText(findTestObject('Object Repository/Web/OA/Continue OA Process/Doc Personal Data/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/input_e-KTP Number_tempat_lahir'),
+	'Bandung')
 
-WebUI.setText(findTestObject('Object Repository/Web/OA/Continue OA Process/Doc Personal Data/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/input_Place of Birth_floating_filledtanggal_lahir'), 
-    '')
+WebUI.setText(findTestObject('Object Repository/Web/OA/Continue OA Process/Doc Personal Data/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/input_Place of Birth_floating_filledtanggal_lahir'),
+	'')
 
-WebUI.setText(findTestObject('Object Repository/Web/OA/Continue OA Process/Doc Personal Data/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/input_Place of Birth_floating_filledtanggal_lahir_1'), 
-    '14-12-1998')
+WebUI.setText(findTestObject('Object Repository/Web/OA/Continue OA Process/Doc Personal Data/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/input_Place of Birth_floating_filledtanggal_lahir_1'),
+	'14-12-1998')
 
-WebUI.sendKeys(findTestObject('Object Repository/Web/OA/Continue OA Process/Doc Personal Data/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/input_Place of Birth_floating_filledtanggal_lahir_1'), 
-    Keys.chord(Keys.ENTER))
+WebUI.sendKeys(findTestObject('Object Repository/Web/OA/Continue OA Process/Doc Personal Data/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/input_Place of Birth_floating_filledtanggal_lahir_1'),
+	Keys.chord(Keys.ENTER))
 
-//WebUI.selectOptionByValue(findTestObject('Object Repository/Web/OA/Continue OA Process/Doc Personal Data/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/select_GenderMaleFemale'), 
+//WebUI.selectOptionByValue(findTestObject('Object Repository/Web/OA/Continue OA Process/Doc Personal Data/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/select_GenderMaleFemale'),
 //    'Gender', true)
-WebUI.selectOptionByValue(findTestObject('Object Repository/Web/OA/Continue OA Process/Doc Personal Data/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/select_GenderMaleFemale'), 
-    'male', true)
+WebUI.selectOptionByValue(findTestObject('Object Repository/Web/OA/Continue OA Process/Doc Personal Data/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/select_GenderMaleFemale'),
+	'male', true)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Web/OA/Continue OA Process/Doc Personal Data/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/select_EducationTanpa GelarSMADiploma 1Dipl_d3914b'), 
-    '104', true)
+WebUI.selectOptionByValue(findTestObject('Object Repository/Web/OA/Continue OA Process/Doc Personal Data/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/select_EducationTanpa GelarSMADiploma 1Dipl_d3914b'),
+	'104', true)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Web/OA/Continue OA Process/Doc Personal Data/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/select_ReligionBudhaKristen ProtestanHinduI_6a5a69'), 
-    '4', true)
+WebUI.selectOptionByValue(findTestObject('Object Repository/Web/OA/Continue OA Process/Doc Personal Data/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/select_ReligionBudhaKristen ProtestanHinduI_6a5a69'),
+	'4', true)
 
-WebUI.setText(findTestObject('Object Repository/Web/OA/Continue OA Process/Doc Personal Data/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/input_Religion_ibu_kandung'), 
-    'Regina Yulian Putri')
+WebUI.setText(findTestObject('Object Repository/Web/OA/Continue OA Process/Doc Personal Data/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/input_Religion_ibu_kandung'),
+	'Regina Yulian Putri')
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Web/OA/Continue OA Process/Doc Personal Data/personal data 2025/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/select_Marriage StatusSingleMarriedDivorced'), 
-    'married', true)
+WebUI.selectOptionByValue(findTestObject('Object Repository/Web/OA/Continue OA Process/Doc Personal Data/personal data 2025/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/select_Marriage StatusSingleMarriedDivorced'),
+	'married', true)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Web/OA/Continue OA Process/Doc Personal Data/personal data 2025/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/select_Marriage StatusSingleMarriedDivorced'), 
-    'separate', true)
+WebUI.selectOptionByValue(findTestObject('Object Repository/Web/OA/Continue OA Process/Doc Personal Data/personal data 2025/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/select_Marriage StatusSingleMarriedDivorced'),
+	'separate', true)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Web/OA/Continue OA Process/Doc Personal Data/personal data 2025/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/select_Marriage StatusSingleMarriedDivorced'), 
-    'single', true)
+WebUI.selectOptionByValue(findTestObject('Object Repository/Web/OA/Continue OA Process/Doc Personal Data/personal data 2025/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/select_Marriage StatusSingleMarriedDivorced'),
+	'single', true)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Web/OA/Continue OA Process/Doc Personal Data/personal data 2025/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/select_Marriage StatusSingleMarriedDivorced'), 
-    'married', true)
+WebUI.selectOptionByValue(findTestObject('Object Repository/Web/OA/Continue OA Process/Doc Personal Data/personal data 2025/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/select_Marriage StatusSingleMarriedDivorced'),
+	'married', true)
 
 //WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Doc Personal Data/personal data 2025/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/label_Spouse name'))
-WebUI.setText(findTestObject('Object Repository/Web/OA/Continue OA Process/Doc Personal Data/personal data 2025/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/input_Marriage Status_nama_pasangan'), 
-    'bayu pasangan abadi')
+WebUI.setText(findTestObject('Object Repository/Web/OA/Continue OA Process/Doc Personal Data/personal data 2025/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/input_Marriage Status_nama_pasangan'),
+	'bayu pasangan abadi')
 
 WebUI.scrollToElement(findTestObject('Web/OA/Continue OA Process/personal data/button_Next'), 0)
 

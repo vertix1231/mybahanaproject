@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>E2E Continue Open Investment Account After Trial Non BCA</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>057202e3-3d2a-49ed-ab60-02684aef3308</testCaseGuid>
-</TestCaseEntity>

@@ -12,23 +12,30 @@
    <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>a7b323b2-4d49-43c4-99ca-07ea16785852</testSuiteGuid>
    <testCaseLink>
-      <guid>b1228f19-8a6c-413b-9de3-82b5698c32fa</guid>
+      <guid>6ce97730-b1f5-4dcb-a2e1-b127ab707f34</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
+      <testCaseId>Test Cases/IRSYAD/WEB/Login/Continue Login</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>b1228f19-8a6c-413b-9de3-82b5698c32fa</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/IRSYAD/WEB/OA Free Trial/OA/Verification Identity/Continue OA Identitiy Check ektp with numeric already pdp after register fix</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>7ac5dae4-9922-42d1-87b8-00fc38b4d50a</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/IRSYAD/WEB/OA Free Trial/OA/Bank Data Cimb/Continue OA Bank Cimb Niaga with Valid Data fix</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>c66f4619-604f-4d70-9c9b-9a2a61b36e93</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/IRSYAD/WEB/OA Free Trial/OA/Doc Personal Data/Continue OA Doc fix</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
@@ -50,7 +57,7 @@
       <guid>71c8b66b-50cc-4874-81a4-6a346a75afe3</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/IRSYAD/WEB/OA Free Trial/OA/Occupation/Continue OA Occupation PNS different address with Valid Data fix</testCaseId>
+      <testCaseId>Test Cases/IRSYAD/WEB/OA Free Trial/OA/Occupation/Continue OA Occupation PNS Esselon345 different address with Valid Data fix</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
@@ -64,7 +71,7 @@
       <guid>a13cab37-dbeb-433e-a70a-f81910f599fb</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/IRSYAD/WEB/OA Free Trial/OA/Beneficiary Owner Occupation/pekerja pns/Continue Beneficiary Owner Occupation PNS</testCaseId>
+      <testCaseId>Test Cases/IRSYAD/WEB/OA Free Trial/OA/RiskProfile/Continue Riskprofile 1 fix</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

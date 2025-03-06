@@ -40,15 +40,15 @@ Thread.sleep(10000)
 
 WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Doc Personal Data/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/button_Create Account Investment'))
 
-Thread.sleep(10000)
+Thread.sleep(1000)
 
 //WebUI.click(findTestObject('Object Repository/Web/open investment account/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/button_Verify'))
 WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\'+GlobalVariable.email+'\\oa_personaldataaddress2.jpg')
 
 Thread.sleep(1000)
 
-WebUI.setText(findTestObject('Object Repository/Web/OA/Continue OA Process/Doc Personal Data/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/input_according to the e-KTP_alamat'), 
-    'Komplek Kehutanan Selakopi C-13 03/06 Pasirmulya Kota Bogor Barat')
+//WebUI.setText(findTestObject('Object Repository/Web/OA/Continue OA Process/Doc Personal Data/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/input_according to the e-KTP_alamat'), 
+//    'Komplek Kehutanan Selakopi C-13 03/06 Pasirmulya Kota Bogor Barat')
 
 WebUI.setText(findTestObject('Object Repository/Web/OA/Continue OA Process/Doc Personal Data/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/input_button search_floating_filledalamat_obj'), 
     '10110')

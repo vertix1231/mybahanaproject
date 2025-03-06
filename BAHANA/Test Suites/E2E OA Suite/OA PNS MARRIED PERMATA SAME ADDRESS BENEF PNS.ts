@@ -10,7 +10,14 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>38acd8fe-60b2-4220-a593-528dafe42955</testSuiteGuid>
+   <testSuiteGuid>866ea39d-b566-4ed3-8d99-b4d9153c80e9</testSuiteGuid>
+   <testCaseLink>
+      <guid>06324f24-1756-4c29-9236-f2982f6a6744</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/IRSYAD/WEB/Login/Continue Login</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
    <testCaseLink>
       <guid>b1228f19-8a6c-413b-9de3-82b5698c32fa</guid>
       <isReuseDriver>false</isReuseDriver>
@@ -50,7 +57,7 @@
       <guid>71c8b66b-50cc-4874-81a4-6a346a75afe3</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/IRSYAD/WEB/OA Free Trial/OA/Occupation/Continue OA Occupation PNS different address with Valid Data fix</testCaseId>
+      <testCaseId>Test Cases/IRSYAD/WEB/OA Free Trial/OA/Occupation/Continue OA Occupation PNS Esselon345 different address with Valid Data fix</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
@@ -64,7 +71,7 @@
       <guid>a13cab37-dbeb-433e-a70a-f81910f599fb</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/IRSYAD/WEB/OA Free Trial/OA/Beneficiary Owner Occupation/pekerja pns/Continue Beneficiary Owner Occupation PNS</testCaseId>
+      <testCaseId>Test Cases/IRSYAD/WEB/OA Free Trial/OA/RiskProfile/Continue Riskprofile 1 fix</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

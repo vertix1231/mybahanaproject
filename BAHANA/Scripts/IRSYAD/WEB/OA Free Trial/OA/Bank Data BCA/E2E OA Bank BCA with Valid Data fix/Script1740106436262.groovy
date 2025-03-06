@@ -35,7 +35,7 @@ WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Page_Ba
 
 Thread.sleep(1000)
 
-WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\'+GlobalVariable.email+'\\oa_datainfobankBCA1.jpg')
+WebUI.takeScreenshot(('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\' + GlobalVariable.email) + '\\oa_datainfobankBCA1.jpg')
 
 Thread.sleep(10000)
 
@@ -44,7 +44,7 @@ WebUI.click(findTestObject('Object Repository/Web/OA/Page_Bahana DXtrade Aplikas
 Thread.sleep(1000)
 
 //WebUI.click(findTestObject('Object Repository/Web/open investment account/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/button_Verify'))
-WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\'+GlobalVariable.email+'\\oa_datainfobankBCA2.jpg')
+WebUI.takeScreenshot(('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\' + GlobalVariable.email) + '\\oa_datainfobankBCA2.jpg')
 
 WebUI.setText(findTestObject('Web/OA/Continue OA Process/Bank Data Non BCA/bankdata/input_button search_floating_filledaccount_opening_information'), 
     'bank central asia')
@@ -58,13 +58,13 @@ WebUI.setText(findTestObject('Object Repository/Web/OA/Continue OA Process/Page_
 WebUI.setText(findTestObject('Object Repository/Web/OA/Continue OA Process/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/input_Account Owner Name_no_rek'), 
     GlobalVariable.rek_bank)
 
-WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\'+GlobalVariable.email+'\\oa_datainfobankBCA3.jpg')
+WebUI.takeScreenshot(('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\' + GlobalVariable.email) + '\\oa_datainfobankBCA3.jpg')
 
 WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/button_Save  Next'))
 
 Thread.sleep(10000)
 
-WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\'+GlobalVariable.email+'\\oa_datainfobankBCA4.jpg')
+WebUI.takeScreenshot(('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\' + GlobalVariable.email) + '\\oa_datainfobankBCA4.jpg')
 
 WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Bank Data BCA/bca feb 2025/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/input_Account Number_checked-checkbox'))
 
@@ -76,22 +76,25 @@ WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Bank Da
 
 WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Bank Data BCA/bca feb 2025/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/input_Account Number_checked-checkbox'))
 
-WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\'+GlobalVariable.email+'\\oa_datainfobankBCA5.jpg')
+WebUI.takeScreenshot(('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\' + GlobalVariable.email) + '\\oa_datainfobankBCA5.jpg')
 
 WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Bank Data BCA/bca feb 2025/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/button_Next'))
 
-WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\'+GlobalVariable.email+'\\oa_datainfobankBCA6.jpg')
+WebUI.takeScreenshot(('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\' + GlobalVariable.email) + '\\oa_datainfobankBCA6.jpg')
 
 //WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Bank Data BCA/bca feb 2025/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/button_Back'))
 //
-WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\'+GlobalVariable.email+'\\oa_datainfobankBCA7.jpg')
+WebUI.takeScreenshot(('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\' + GlobalVariable.email) + '\\oa_datainfobankBCA7.jpg')
+
 Thread.sleep(5000)
+
+WebUI.click(findTestObject('Web/OA/Continue OA Process/Bank Data BCA/march2025/button_Next_verify_succes/button_Next_verify_succes'))
+
 //
 //WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Bank Data BCA/bca feb 2025/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/button_BCA Verify_text-gray-400 bg-transpar_d0f0a7'))
 //
 WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/button_Save  Next'))
-
 Thread.sleep(10000)
 
-WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\'+GlobalVariable.email+'\\oa_datainfobankBCA8.jpg')
+WebUI.takeScreenshot(('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\' + GlobalVariable.email) + '\\oa_datainfobankBCA8.jpg')
 

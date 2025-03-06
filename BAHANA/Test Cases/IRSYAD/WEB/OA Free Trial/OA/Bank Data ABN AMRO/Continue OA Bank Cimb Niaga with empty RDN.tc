@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Continue OA Bank Cimb Niaga with empty RDN</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>70f32abf-1dbc-465e-937d-5c6e52ebf50d</testCaseGuid>
+</TestCaseEntity>

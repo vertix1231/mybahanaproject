@@ -4,5 +4,6 @@
    <name>Continue OA Bank BCA with Valid Data fix</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>70be9163-5c76-4377-bf1d-ac729fd1d37c</testCaseGuid>
 </TestCaseEntity>

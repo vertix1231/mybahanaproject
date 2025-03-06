@@ -42,5 +42,3 @@ Thread.sleep(10000)
 
 WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\'+GlobalVariable.email+'\\login2.jpg')
 
-WebUI.acceptAlert()
-

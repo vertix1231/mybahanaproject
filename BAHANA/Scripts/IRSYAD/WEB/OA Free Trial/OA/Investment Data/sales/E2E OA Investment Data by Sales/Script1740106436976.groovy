@@ -41,7 +41,7 @@ Thread.sleep(5000)
 
 WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Occupation n Investment/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/button_Create Account Investment'))
 
-Thread.sleep(10000)
+Thread.sleep(1000)
 
 WebUI.takeScreenshot(('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\' + GlobalVariable.email) + '\\oa_investment_sales_trPreference2.jpg')
 

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>E2E OA Bank Permata with Valid Data fix</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f9f7cff1-deac-4e47-9f6a-34fa6aa12a66</testCaseGuid>
+</TestCaseEntity>
