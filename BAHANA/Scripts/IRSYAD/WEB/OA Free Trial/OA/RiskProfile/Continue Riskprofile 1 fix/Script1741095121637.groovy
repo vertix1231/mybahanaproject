@@ -17,6 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+
 Thread.sleep(10000)
 
 Thread.sleep(30000)
@@ -83,6 +84,71 @@ WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Approva
 WebUI.takeScreenshot(('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\' + GlobalVariable.email) + '\\oa_aprroval_4.jpg')
 
 WebUI.click(findTestObject('Web/OA/Continue OA Process/Approval n Risk Profile/approvalmainnextbtn/approvalmainnextbtn'))
+//
+//Thread.sleep(30000)
+//
+//WebUI.takeScreenshot(('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\' + GlobalVariable.email) + '\\oa_aprroval_1_1.jpg')
+//
+//WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Approval n Risk Profile/riskprofile2024/input_Is there a family or close relative o_439c56'))
+//
+//WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Approval n Risk Profile/riskprofile2024/input_Yes_form-radio text-bahana-sky h-5 w-5'))
+//
+//WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Approval n Risk Profile/riskprofile2024/input_Yes_form-radio text-bahana-sky h-5 w-5_1'))
+//
+//WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Approval n Risk Profile/riskprofile2024/input_No_form-radio text-bahana-sky h-5 w-5'))
+//
+//WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Approval n Risk Profile/riskprofile2024/input_Yes_form-radio text-bahana-sky h-5 w-5_1_2'))
+//
+//WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Approval n Risk Profile/riskprofile2024/input_No_form-radio text-bahana-sky h-5 w-5_1'))
+//
+//WebUI.setText(findTestObject('Object Repository/Web/OA/Continue OA Process/Approval n Risk Profile/riskprofile2024/input_No_presentasi'),
+//	'dext601 - stafftest - bahanacompany')
+//
+//WebUI.takeScreenshot(('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\' + GlobalVariable.email) + '\\oa_aprroval_2.jpg')
+//
+//WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Approval n Risk Profile/riskprofile2024/div_'))
+//
+//WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Approval n Risk Profile/riskprofile2024/div__1'))
+//
+//WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Approval n Risk Profile/riskprofile2024/div__1_2'))
+//
+//WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Approval n Risk Profile/riskprofile2024/input_Persetujuan Pembukaan Rekening Dana N_4c36a4'))
+//
+//WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Approval n Risk Profile/riskprofile2024/button_Next'))
+//
+//WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Approval n Risk Profile/riskprofile2024/div__1_2_3'))
+//
+//WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Approval n Risk Profile/riskprofile2024/input_Persetujuan Pembukaan Rekening Dana N_4c36a4'))
+//
+//WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Approval n Risk Profile/riskprofile2024/button_Next'))
+//
+//WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Approval n Risk Profile/riskprofile2024/svg_If yes, please specify (Name - Position_581d70'))
+//
+//WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Approval n Risk Profile/riskprofile2024/div_'))
+//
+//WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Approval n Risk Profile/riskprofile2024/svg_If yes, please specify (Name - Position_581d70'))
+//
+//WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Approval n Risk Profile/riskprofile2024/div_'))
+//
+//WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Approval n Risk Profile/riskprofile2024/svg_I declare that my data is correct and c_fac3a1'))
+//
+//WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Approval n Risk Profile/riskprofile2024/div__1'))
+//
+//WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Approval n Risk Profile/riskprofile2024/svg_I certify that I am not a United States_54d2b7'))
+//
+//WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Approval n Risk Profile/riskprofile2024/div__1_2'))
+//
+//WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Approval n Risk Profile/riskprofile2024/input_Persetujuan Pembukaan Rekening Dana N_4c36a4'))
+//
+//Thread.sleep(1000)
+//
+//WebUI.takeScreenshot(('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\' + GlobalVariable.email) + '\\oa_aprroval_3.jpg')
+//
+//WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Approval n Risk Profile/riskprofile2024/button_Next'))
+//
+//WebUI.takeScreenshot(('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\' + GlobalVariable.email) + '\\oa_aprroval_4.jpg')
+//
+//WebUI.click(findTestObject('Web/OA/Continue OA Process/Approval n Risk Profile/approvalmainnextbtn/approvalmainnextbtn'))
 
 WebUI.takeScreenshot(('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\' + GlobalVariable.email) + '\\oa_aprroval_5.jpg')
 
