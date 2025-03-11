@@ -92,7 +92,7 @@ WebUI.scrollToElement(findTestObject('Web/OA/Continue OA Process/personal data/b
 
 WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\'+GlobalVariable.email+'\\oa_personaldata_married_3.jpg')
 
-//WebUI.click(findTestObject('Web/OA/Continue OA Process/personal data/button_Next'))
+WebUI.click(findTestObject('Web/OA/Continue OA Process/personal data/button_Next'))
 
 WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\'+GlobalVariable.email+'\\oa_personaldata_married_4.jpg')
 

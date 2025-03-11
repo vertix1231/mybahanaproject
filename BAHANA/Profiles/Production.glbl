@@ -49,4 +49,14 @@
       <initValue>'11111111111111111111'</initValue>
       <name>rek_bank</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'dxtest2'</initValue>
+      <name>bsm_email</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'dxtest2'</initValue>
+      <name>bsm_emailregis</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
