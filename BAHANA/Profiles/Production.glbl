@@ -6,12 +6,12 @@
    <defaultProfile>false</defaultProfile>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'DXtestprod1@sharklasers.com'</initValue>
+      <initValue>'irsyad_vertixirsyad@apps.ipb.ac.id'</initValue>
       <name>email</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'DXtestprod1@sharklasers.com'</initValue>
+      <initValue>'irsyad.muhamad.andre.kompit@gmail.com'</initValue>
       <name>emailregis</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -36,17 +36,17 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'Irsyad Muhammad Andre pelajar'</initValue>
+      <initValue>'ANDRIANSYAH NUGROHO prod test'</initValue>
       <name>name_ektp</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'Irsyad Muhammad Andre pelajar'</initValue>
+      <initValue>'ANDRIANSYAH NUGROHO'</initValue>
       <name>bank_owner_name</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'11111111111111111111'</initValue>
+      <initValue>'3450407193'</initValue>
       <name>rek_bank</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
