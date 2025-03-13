@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Continue OA Occupation TNI POLRI different address with Valid Data fix</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d8d8466a-2097-41cd-acfd-5e38feaaf3c8</testCaseGuid>
+</TestCaseEntity>

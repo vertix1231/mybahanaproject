@@ -66,7 +66,7 @@ WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Occupat
 WebUI.click(findTestObject('Object Repository/Web/OA/Continue OA Process/Occupation n Investment/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/label_Sales'))
 
 WebUI.selectOptionByValue(findTestObject('Web/OA/Continue OA Process/investment/invest_objmar2025/select_Mentionmar2025'), 
-    'BHN002', true)
+    '020517', true)
 
 //WebUI.selectOptionByValue(findTestObject('Web/OA/Continue OA Process/Occupation n Investment/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/select_salescode'), 
 //    '020515', true)
