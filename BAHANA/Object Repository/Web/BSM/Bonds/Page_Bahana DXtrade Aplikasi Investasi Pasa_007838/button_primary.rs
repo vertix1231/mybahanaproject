@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_primary</name>
+   <tag></tag>
+   <elementGuidId>9fab43cf-1069-4abd-8360-777c4a94698b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='secondary'])[1]/following::button[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f96d8192-c14c-489e-afd7-b78966c89e05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>border-[1px] text-xs font-semibold px-4 py-1.5 capitalize rounded-lg hover:text-[#13465D] hover:border-bahana-sky dark:hover:bg-bahana-dark-menu-active text-bahana-gray-txt dark:text-bahana-ash dark:border-bahana-gray-txt</value>
+      <webElementGuid>0045d652-8af1-492d-9b2c-e4551286a97f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>primary</value>
+      <webElementGuid>9b649ca1-ebb6-4ca0-8893-b6a61e2c6aa5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;light&quot;]/body[@class=&quot;__className_d65c78 max-h-screen&quot;]/div[@class=&quot;xl:h-screen xl:max-h-screen flex flex-col justify-between dark:bg-black bg-foreground xl:text-xs sm:text-xxs mobile:text-xxs w-screen overflow-y-hidden&quot;]/main[@class=&quot;overflow-y-scroll no-scrollbar h-full flex order-3 xl:order-2 dark:bg-black bg-foreground xl:flex-row sm:flex-col mobile:flex-col w-screen&quot;]/div[@class=&quot;order-2 flex xl:flex-row sm:flex-col xl:w-full dark:bg-black bg-foreground justify-center items-center xl:h-full&quot;]/div[@class=&quot;sticky overflow-y-auto top-0 left-0 flex flex-col xl:flex-row items-stretch w-full h-full&quot;]/div[@class=&quot;w-full m-2 bg-white rounded-t-md dark:bg-bahana-dark&quot;]/div[@class=&quot;w-full&quot;]/div[@class=&quot;grow grid grid-row-2 gap-2 justify-items-stretch&quot;]/div[@class=&quot;bg-white dark:bg-bahana-dark rounded-lg&quot;]/div[@class=&quot;grid grid-cols-12 mb-2 px-4&quot;]/div[@class=&quot;col-span-12 sm:col-span-6 sm:mb-0 mb-3&quot;]/ul[@class=&quot;flex space-x-2&quot;]/li[2]/button[@class=&quot;border-[1px] text-xs font-semibold px-4 py-1.5 capitalize rounded-lg hover:text-[#13465D] hover:border-bahana-sky dark:hover:bg-bahana-dark-menu-active text-bahana-gray-txt dark:text-bahana-ash dark:border-bahana-gray-txt&quot;]</value>
+      <webElementGuid>3955f033-02fc-401d-b817-97bbe199eded</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='secondary'])[1]/following::button[1]</value>
+      <webElementGuid>491d075a-2487-48b9-b101-fcb400254631</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Corporate Bonds'])[1]/following::button[2]</value>
+      <webElementGuid>4790a783-3292-4797-9e38-71174eff0439</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Drag here to set row groups'])[1]/preceding::button[1]</value>
+      <webElementGuid>dd4f3ed0-9aa0-438a-87f0-ea23c4dac9d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Drag here to set column labels'])[1]/preceding::button[1]</value>
+      <webElementGuid>e54d766f-8476-4ba4-9592-7a2e05f7fbc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='primary']/parent::*</value>
+      <webElementGuid>d24d1052-7062-4036-9c0f-f999ba887a0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/button</value>
+      <webElementGuid>759f44be-041b-4a92-8c58-33cab7c42f33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'primary' or . = 'primary')]</value>
+      <webElementGuid>812a4e70-6e32-400a-b9bd-e30446e73c07</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

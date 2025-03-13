@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_secondary</name>
+   <tag></tag>
+   <elementGuidId>412de615-b900-416e-8861-94b8bcfb0078</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Corporate Bonds'])[1]/following::button[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>8dacdff3-7654-4416-bace-a2514d1eede7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>border-[1px] text-xs font-semibold px-4 py-1.5 capitalize rounded-lg hover:text-[#13465D] hover:border-bahana-sky dark:hover:bg-bahana-dark-menu-active bg-bahana-menu-active dark:bg-bahana-dark-menu-active border-bahana-sky text-[#13465D]</value>
+      <webElementGuid>d58435ab-75dd-4553-86e4-67ea31322e4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>secondary</value>
+      <webElementGuid>f411a28e-1ca6-42ba-9a5f-20d95c90b47c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;light&quot;]/body[@class=&quot;__className_d65c78 max-h-screen&quot;]/div[@class=&quot;xl:h-screen xl:max-h-screen flex flex-col justify-between dark:bg-black bg-foreground xl:text-xs sm:text-xxs mobile:text-xxs w-screen overflow-y-hidden&quot;]/main[@class=&quot;overflow-y-scroll no-scrollbar h-full flex order-3 xl:order-2 dark:bg-black bg-foreground xl:flex-row sm:flex-col mobile:flex-col w-screen&quot;]/div[@class=&quot;order-2 flex xl:flex-row sm:flex-col xl:w-full dark:bg-black bg-foreground justify-center items-center xl:h-full&quot;]/div[@class=&quot;sticky overflow-y-auto top-0 left-0 flex flex-col xl:flex-row items-stretch w-full h-full&quot;]/div[@class=&quot;w-full m-2 bg-white rounded-t-md dark:bg-bahana-dark&quot;]/div[@class=&quot;w-full&quot;]/div[@class=&quot;grow grid grid-row-2 gap-2 justify-items-stretch&quot;]/div[@class=&quot;bg-white dark:bg-bahana-dark rounded-lg&quot;]/div[@class=&quot;grid grid-cols-12 mb-2 px-4&quot;]/div[@class=&quot;col-span-12 sm:col-span-6 sm:mb-0 mb-3&quot;]/ul[@class=&quot;flex space-x-2&quot;]/li[1]/button[@class=&quot;border-[1px] text-xs font-semibold px-4 py-1.5 capitalize rounded-lg hover:text-[#13465D] hover:border-bahana-sky dark:hover:bg-bahana-dark-menu-active bg-bahana-menu-active dark:bg-bahana-dark-menu-active border-bahana-sky text-[#13465D]&quot;]</value>
+      <webElementGuid>2267bf1c-3e74-42ec-936e-bea77dd1730a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Corporate Bonds'])[1]/following::button[1]</value>
+      <webElementGuid>2c3487c2-a1d4-4382-999b-7c168d9145c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SBN Retail'])[1]/following::button[2]</value>
+      <webElementGuid>9d9912e2-b473-4682-9263-91048257c46b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='primary'])[1]/preceding::button[1]</value>
+      <webElementGuid>779c71e2-0db5-438a-94ea-8ff129b6b1fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Drag here to set row groups'])[1]/preceding::button[2]</value>
+      <webElementGuid>79954c44-e0e8-4349-a3d0-9db0be2d832b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='secondary']/parent::*</value>
+      <webElementGuid>49b5b1b0-1c60-4303-b320-047dd4a54fd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/button</value>
+      <webElementGuid>562a76a5-5686-4b35-9cc8-8360ae59039e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'secondary' or . = 'secondary')]</value>
+      <webElementGuid>c2ed0e94-7cd5-411f-9b9e-a324bb5546fd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
