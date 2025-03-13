@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>E2E OA Occupation PSwasta with Valid Data fix</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ec885d44-3580-4030-b33f-a91663b3c1f7</testCaseGuid>
+</TestCaseEntity>

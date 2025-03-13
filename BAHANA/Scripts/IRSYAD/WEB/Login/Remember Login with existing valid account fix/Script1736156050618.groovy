@@ -3,9 +3,7 @@ import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
 import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
 import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject
-
-import javax.xml.bind.annotation.XmlElementDecl.GLOBAL
-
+import javax.xml.bind.annotation.XmlElementDecl.GLOBAL as GLOBAL
 import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
 import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
 import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
@@ -22,9 +20,9 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.maximizeWindow()
-
 WebUI.navigateToUrl(GlobalVariable.url)
+
+WebUI.maximizeWindow()
 
 WebUI.setText(findTestObject('Object Repository/Web/Login/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/input_Log In_w-full border rounded-lg px-2 _607240'), 
     GlobalVariable.email)
@@ -34,11 +32,11 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Web/Login/Page_Bahana D
 
 WebUI.click(findTestObject('Object Repository/Web/Login/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/input_Log In_rememberme'))
 
-WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\'+GlobalVariable.email+'\\login1.jpg')
+WebUI.takeScreenshot(('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\' + GlobalVariable.email) + '\\login1.jpg')
 
 WebUI.click(findTestObject('Object Repository/Web/Login/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/button_Log In'))
 
 Thread.sleep(10000)
 
-WebUI.takeScreenshot('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\'+GlobalVariable.email+'\\login2.jpg')
+WebUI.takeScreenshot(('D:\\KULIAH DAN KERJA\\KERJA\\bahana bug\\fix\\' + GlobalVariable.email) + '\\login2.jpg')
 
