@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>7823807d-438b-4ff5-b3d8-4a08cdb2181f</webElementGuid>
+      <webElementGuid>efe4e61f-c9b8-4f56-89b6-48307559edf1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>menu-primary rounded-md px-3 py-1 flex flex-row items-center</value>
-      <webElementGuid>46b2dafb-71b2-4626-a96c-0c29165d316b</webElementGuid>
+      <webElementGuid>45663d3a-8611-4cf8-8be0-661dd671bd97</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>aria-current</name>
       <type>Main</type>
       <value>page</value>
-      <webElementGuid>c6a296c7-8cba-464b-95cf-8e38dcf95417</webElementGuid>
+      <webElementGuid>ff96e19e-9a4f-4e7c-bfd2-74f6168d4e82</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Bonds</value>
-      <webElementGuid>2dedcfa6-e711-4d5c-a3ec-5b68b8e3c4e6</webElementGuid>
+      <webElementGuid>da0c0258-ad93-473b-9e1a-6e3780759b75</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[@class=&quot;light&quot;]/body[@class=&quot;__className_d65c78 max-h-screen&quot;]/div[@class=&quot;xl:h-screen xl:max-h-screen flex flex-col justify-between dark:bg-black bg-foreground xl:text-xs sm:text-xxs mobile:text-xxs w-screen overflow-y-hidden&quot;]/header[@class=&quot;z-20 sticky top-0  w-screen order-first flex bg-white dark:bg-bahana-dark shadow-header&quot;]/div[@class=&quot;flex flex-wrap xl:flex-nowrap mobile:justify-around border-b dark:border-b-bahana-dark w-full&quot;]/nav[@class=&quot;order-3 xl:order-2 flex flex-col mobile:justify-around border-e dark:border-e-slate-600 border-s dark:border-s-slate-600 w-full&quot;]/div[@class=&quot;mobile:hidden xl:flex items-center justify-center h-full&quot;]/div[@class=&quot;flex items-center justify-center&quot;]/div[@class=&quot;flex gap-1 text-sm&quot;]/div[@class=&quot;cursor-pointer&quot;]/div[@class=&quot;menu-primary rounded-md px-3 py-1 flex flex-row items-center&quot;]</value>
-      <webElementGuid>98a985e3-822c-4780-96a8-261e428a6db0</webElementGuid>
+      <webElementGuid>314eaa6b-5844-43af-82c9-7ce66079a984</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Stock'])[1]/following::div[2]</value>
-      <webElementGuid>7775de86-d580-4e97-9c03-56d337a28ca0</webElementGuid>
+      <webElementGuid>5bacb369-69f3-4c44-89c0-168213f9faa1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Open main menu'])[1]/following::div[7]</value>
-      <webElementGuid>ef1525d0-d5aa-4d14-8251-ab932d51d763</webElementGuid>
+      <webElementGuid>3e31c01b-dabe-4639-bd01-37923bb0474f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Mutual Fund'])[1]/preceding::div[1]</value>
-      <webElementGuid>e4175cb3-7bc6-484f-af0f-711181b3569c</webElementGuid>
+      <webElementGuid>840f232b-f703-4305-92c7-ca4b16c7cfba</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div[2]/div</value>
-      <webElementGuid>44756052-d1a8-41cc-86a4-abe1445da85c</webElementGuid>
+      <webElementGuid>47d8b179-fb7f-4df3-b45d-4ef11d046abe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,6 +95,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Bonds' or . = 'Bonds')]</value>
-      <webElementGuid>48d89cb2-a437-4c2e-accb-31c24bd1daf9</webElementGuid>
+      <webElementGuid>f4fa41f9-9b9b-4850-9392-1dafcb22aeda</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

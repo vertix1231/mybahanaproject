@@ -23,22 +23,22 @@ WebUI.navigateToUrl(GlobalVariable.url)
 
 WebUI.maximizeWindow()
 
-WebUI.setText(findTestObject('Object Repository/Web/BSM/Bonds/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/input_EN_username'), 
+WebUI.setText(findTestObject('Object Repository/Web/BSM/Bonds/corporate/input_EN_username'), 
     'dxtest2')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Web/BSM/Bonds/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/input_Email or Username_pwd'), 
+WebUI.setEncryptedText(findTestObject('Object Repository/Web/BSM/Bonds/corporate/input_Email or Username_pwd'), 
     '9NLz+4tGZcQ=')
 
-WebUI.click(findTestObject('Object Repository/Web/BSM/Bonds/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/label_Password'))
+WebUI.click(findTestObject('Object Repository/Web/BSM/Bonds/corporate/label_Password'))
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Web/BSM/Bonds/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/input_Email or Username_pwd'), 
+WebUI.setEncryptedText(findTestObject('Object Repository/Web/BSM/Bonds/corporate/input_Email or Username_pwd'), 
     '8SQVv/p9jVScEs4/2CZsLw==')
 
-WebUI.click(findTestObject('Object Repository/Web/BSM/Bonds/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/input_Password_rememberme'))
+WebUI.click(findTestObject('Object Repository/Web/BSM/Bonds/corporate/input_Password_rememberme'))
 
-WebUI.click(findTestObject('Object Repository/Web/BSM/Bonds/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/button_Log In'))
+WebUI.click(findTestObject('Object Repository/Web/BSM/Bonds/corporate/button_Log In'))
 
-WebUI.click(findTestObject('Object Repository/Web/BSM/Bonds/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/div_Bonds'))
+WebUI.click(findTestObject('Object Repository/Web/BSM/Bonds/corporate/div_Bonds'))
 
-WebUI.click(findTestObject('Object Repository/Web/BSM/Bonds/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/button_Government Bonds'))
+WebUI.click(findTestObject('Object Repository/Web/BSM/Bonds/corporate/button_Government Bonds'))
 

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Password</name>
+   <tag></tag>
+   <elementGuidId>14045e86-5276-4e53-a70e-a9710e118b26</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Email or Username'])[1]/following::label[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>9120c26d-77fa-4294-b794-a0d14e3d8bf4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>floating_filledpwd</value>
+      <webElementGuid>812b2529-a20d-438d-ba2d-5605f47215a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>absolute w-full text-start text-sm dark:text-gray-400 duration-300 transform -translate-y-4 scale-75 z-10 origin-[0] left-2.5 peer-focus:text-gray-400 peer-focus:dark:text-gray-400 peer-placeholder-shown:scale-100 peer-placeholder-shown:translate-y-0 peer-focus:scale-75 peer-focus:-translate-y-4 text-gray-500 top-4</value>
+      <webElementGuid>4a1728ea-f223-45f8-84fa-77a3441ae511</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Password</value>
+      <webElementGuid>5ba29249-282a-42b6-9fdd-b6f521b594fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;light&quot;]/body[@class=&quot;__className_d65c78 max-h-screen&quot;]/main[@class=&quot;min-h-screen w-screen flex justify-stretch&quot;]/div[@class=&quot;w-full md:w-7/12 flex-row bg-[#F6F6F6] dark:bg-bahana-dark items-center&quot;]/div[@class=&quot;my-2 md:my-2 flex flex-col justify-center items-center pt-2 xl:pt-[0px] 2xl:pt-[90px]&quot;]/div[@class=&quot;rounded-lg m-3 md:p-auto w-[425px]&quot;]/div[@class=&quot;justify-center items-center&quot;]/div[@class=&quot;p-6 rounded-lg bg-white dark:bg-bahana-dark-sec border border-white dark:border-bahana-dark-sec&quot;]/div[@class=&quot;relative mb-5&quot;]/label[@class=&quot;absolute w-full text-start text-sm dark:text-gray-400 duration-300 transform -translate-y-4 scale-75 z-10 origin-[0] left-2.5 peer-focus:text-gray-400 peer-focus:dark:text-gray-400 peer-placeholder-shown:scale-100 peer-placeholder-shown:translate-y-0 peer-focus:scale-75 peer-focus:-translate-y-4 text-gray-500 top-4&quot;]</value>
+      <webElementGuid>706698c2-2c8e-4d04-8a6e-bdc7870921df</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email or Username'])[1]/following::label[1]</value>
+      <webElementGuid>dbedf0ad-452f-40eb-b2ec-471a0170cef5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EN'])[1]/following::label[2]</value>
+      <webElementGuid>8d75102c-97c0-47b4-85cd-e79e1e434dd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remember Me'])[1]/preceding::label[1]</value>
+      <webElementGuid>f316114a-683f-40e0-b910-e48c4668bb61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot Password?'])[1]/preceding::label[2]</value>
+      <webElementGuid>d8cac9aa-42cd-4e4a-b14d-c95c873cc90c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Password']/parent::*</value>
+      <webElementGuid>e9b703fc-eb95-4d14-8046-fda013e58427</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/label</value>
+      <webElementGuid>f1b1fa98-e853-4adb-ba95-52be8445993f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Password' or . = 'Password')]</value>
+      <webElementGuid>1a7d4988-98db-469b-9e7a-750854d8eab2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

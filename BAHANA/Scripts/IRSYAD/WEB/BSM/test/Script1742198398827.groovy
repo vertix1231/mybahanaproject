@@ -19,17 +19,12 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl(GlobalVariable.url)
+WebUI.navigateToUrl('https://dev-hthbg.bahana.co.id:3030/')
 
 WebUI.maximizeWindow()
 
 WebUI.setText(findTestObject('Object Repository/Web/BSM/Bonds/corporate/input_EN_username'), 
     'dxtest2')
-
-WebUI.setEncryptedText(findTestObject('Object Repository/Web/BSM/Bonds/corporate/input_Email or Username_pwd'), 
-    '9NLz+4tGZcQ=')
-
-WebUI.click(findTestObject('Object Repository/Web/BSM/Bonds/corporate/label_Password'))
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Web/BSM/Bonds/corporate/input_Email or Username_pwd'), 
     '8SQVv/p9jVScEs4/2CZsLw==')
@@ -40,12 +35,5 @@ WebUI.click(findTestObject('Object Repository/Web/BSM/Bonds/corporate/button_Log
 
 WebUI.click(findTestObject('Object Repository/Web/BSM/Bonds/corporate/div_Bonds'))
 
-WebUI.click(findTestObject('Object Repository/Web/BSM/Bonds/corporate/button_Government Bonds'))
+WebUI.click(findTestObject('Object Repository/Web/BSM/Bonds/corporate/div_FR0075Obligasi Negara Republik Indonesi_81340a'))
 
-WebUI.click(findTestObject('Object Repository/Web/BSM/Bonds/corporate/button_SBN Retail'))
-
-WebUI.click(findTestObject('Object Repository/Web/BSM/Bonds/corporate/button_Corporate Bonds'))
-
-WebUI.click(findTestObject('Object Repository/Web/BSM/Bonds/corporate/button_secondary'))
-
-WebUI.click(findTestObject('Object Repository/Web/BSM/Bonds/corporate/button_primary'))
