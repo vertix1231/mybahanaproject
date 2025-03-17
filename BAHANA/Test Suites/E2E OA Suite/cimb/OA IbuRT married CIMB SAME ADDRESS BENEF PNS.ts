@@ -21,21 +21,21 @@
    <testCaseLink>
       <guid>b1228f19-8a6c-413b-9de3-82b5698c32fa</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/IRSYAD/WEB/OA Free Trial/OA/Verification Identity/Continue OA Identitiy Check ektp with numeric already pdp after register fix</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>7ac5dae4-9922-42d1-87b8-00fc38b4d50a</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/IRSYAD/WEB/OA Free Trial/OA/Bank Data Cimb/Continue OA Bank Cimb Niaga with Valid Data fix</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>c66f4619-604f-4d70-9c9b-9a2a61b36e93</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/IRSYAD/WEB/OA Free Trial/OA/Doc Personal Data/Continue OA Doc fix</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>

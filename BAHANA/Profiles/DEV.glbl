@@ -6,12 +6,12 @@
    <defaultProfile>true</defaultProfile>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'dxtest645@yopmail.com'</initValue>
+      <initValue>'dxtest647@yopmail.com'</initValue>
       <name>email</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'dxtest645@yopmail.com'</initValue>
+      <initValue>'dxtest647@yopmail.com'</initValue>
       <name>emailregis</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>

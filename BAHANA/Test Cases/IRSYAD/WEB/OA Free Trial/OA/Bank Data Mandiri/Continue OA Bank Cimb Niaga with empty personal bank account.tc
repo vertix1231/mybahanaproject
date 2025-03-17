@@ -4,5 +4,6 @@
    <name>Continue OA Bank Cimb Niaga with empty personal bank account</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>3a2fdbf4-edb5-43b8-acba-4f033b43d291</testCaseGuid>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>39b4eb80-aeca-4bb8-88e3-85ebf885d5e4</testCaseGuid>
 </TestCaseEntity>

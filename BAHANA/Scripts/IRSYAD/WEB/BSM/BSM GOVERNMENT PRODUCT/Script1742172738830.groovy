@@ -42,3 +42,10 @@ WebUI.click(findTestObject('Object Repository/Web/BSM/Bonds/Page_Bahana DXtrade 
 
 WebUI.click(findTestObject('Object Repository/Web/BSM/Bonds/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/button_Government Bonds'))
 
+WebUI.click(findTestObject('Object Repository/Web/BSM/Bonds/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/button_SBN Retail'))
+
+WebUI.click(findTestObject('Object Repository/Web/BSM/Bonds/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/button_Corporate Bonds'))
+
+WebUI.click(findTestObject('Object Repository/Web/BSM/Bonds/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/button_secondary'))
+
+WebUI.click(findTestObject('Object Repository/Web/BSM/Bonds/Page_Bahana DXtrade Aplikasi Investasi Pasa_007838/button_primary'))

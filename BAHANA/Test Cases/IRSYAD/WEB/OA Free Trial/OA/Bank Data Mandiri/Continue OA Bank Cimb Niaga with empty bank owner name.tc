@@ -4,5 +4,6 @@
    <name>Continue OA Bank Cimb Niaga with empty bank owner name</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>885851f6-09df-40f9-a047-b5ba09cc0828</testCaseGuid>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ac5aad8f-eeb6-433a-a729-5c0378225672</testCaseGuid>
 </TestCaseEntity>

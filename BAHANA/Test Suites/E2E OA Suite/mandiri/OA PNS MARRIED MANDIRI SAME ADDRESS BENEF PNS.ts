@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>OA PNS MARRIED CIMB SAME ADDRESS BENEF PNS</name>
+   <name>OA PNS MARRIED MANDIRI SAME ADDRESS BENEF PNS</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient>irsyad.muhamad.andre@gmail.com;</mailRecipient>
@@ -10,7 +10,7 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>a7b323b2-4d49-43c4-99ca-07ea16785852</testSuiteGuid>
+   <testSuiteGuid>8c255994-6b1b-4904-9026-a1689f4a46dc</testSuiteGuid>
    <testCaseLink>
       <guid>6ce97730-b1f5-4dcb-a2e1-b127ab707f34</guid>
       <isReuseDriver>false</isReuseDriver>
@@ -29,7 +29,7 @@
       <guid>7ac5dae4-9922-42d1-87b8-00fc38b4d50a</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/IRSYAD/WEB/OA Free Trial/OA/Bank Data Cimb/Continue OA Bank Cimb Niaga with Valid Data fix</testCaseId>
+      <testCaseId>Test Cases/IRSYAD/WEB/OA Free Trial/OA/Bank Data Mandiri/Continue OA Bank Mandiri with Valid Data fix</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>

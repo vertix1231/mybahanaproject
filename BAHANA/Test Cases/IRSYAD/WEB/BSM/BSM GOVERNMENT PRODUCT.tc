@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Continue OA Bank Cimb Niaga with empty RDN</name>
+   <name>BSM GOVERNMENT PRODUCT</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>0db767ab-fd0e-4c0a-8073-99bee4928914</testCaseGuid>
+   <testCaseGuid>ad461832-4b41-454d-9b2d-7c4ea986077b</testCaseGuid>
 </TestCaseEntity>

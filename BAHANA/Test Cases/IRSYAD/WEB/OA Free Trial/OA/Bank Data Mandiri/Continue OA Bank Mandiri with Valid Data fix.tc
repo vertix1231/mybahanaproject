@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Continue OA Bank Cimb Niaga with empty RDN</name>
+   <name>Continue OA Bank Mandiri with Valid Data fix</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>0db767ab-fd0e-4c0a-8073-99bee4928914</testCaseGuid>
+   <testCaseGuid>a001a4e3-965b-4892-92f8-c37db99139fc</testCaseGuid>
 </TestCaseEntity>
